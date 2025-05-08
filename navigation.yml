@@ -1,34 +1,30 @@
 - title: Home
   url: /
-- title: Guide
+
+- title: Get Started
   children:
-    - title: Overview
-      url: /guide/overview
-    - title: What You Will Learn
-      url: /guide/what-you-will-learn
-    - title: Core Pillars
-      url: /guide/core-pillars
-    - title: Our Solution
-      url: /guide/our-solution
-    - title: Who Benefits
-      url: /guide/who-benefits
-    - title: Course Structure
-      url: /guide/course-structure
-    - title: Level 1: Incubation
-      url: /guide/level-1-incubation
-    - title: Level 2: Acceleration
-      url: /guide/level-2-acceleration
-    - title: Professional Open-Source Learning
-      url: /guide/professional-open-source-learning
-    - title: AI-Powered Adaptive Learning
-      url: /guide/ai-powered-adaptive-learning
-    - title: Industry-Aligned Learning Model
-      url: /guide/industry-aligned-learning-model
-    - title: Target Audience & Career Paths
-      url: /guide/target-audience-career-paths
-    - title: Certification & Career Support
-      url: /guide/certification-career-support
-    - title: Course Outcomes
-      url: /guide/course-outcomes
-    - title: Get Started Now
-      url: /guide/get-started-now
+    - title: Introduction
+      url: /get-started/introduction
+    - title: Use Cases
+      url: /get-started/use-cases
+
+- title: Botshare Framework
+  children:
+    - title: L1 - Incubation
+      url: /framework/l1-incubation
+    - title: L2 - Acceleration
+      url: /framework/l2-acceleration
+    - title: References
+      url: /framework/references
+
+- title: Company
+  children:
+    - title: Company Overview
+      url: /company/company-overview
+    - title: Contributing
+      url: /company/contributing
+    - title: FAQ
+      url: /company/faq
+
+- title: GitHub
+  external_url: https://github.com/merilynn-64/Botshare_document
