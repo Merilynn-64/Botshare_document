@@ -1,75 +1,58 @@
-title: Botshare Book
-description: Open Robotics AI & Deep-Tech Initiative
-baseurl: "/Botshare_book"
-url: "https://botshareai.github.io"
-theme: material
-title: Botshare Book
-description: Open Robotics AI & Deep-Tech Initiative
-baseurl: "/Botshare_book"  # Change if using a custom domain
-url: "https://botshareai.github.io"
+site_name: "Botshare Book"
 
-# Theme and plugins
-remote_theme: fernandopasik/jekyll-theme-material-docs
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+theme:
+  name: "material"
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: dark blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
 
-# GitHub repo link in header
-repo_url: "https://github.com/botshareai/Botshare_book"
-repo_name: "Botshare Book on GitHub"
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@botshare.ai
+    - icon: fontawesome/brands/github
+      link: https://github.com/openAMRobot
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/botshare
 
-# Display options
-#logo: /assets/images/logo.png  # optional if you have one
-#favicon: /assets/images/favicon.ico  # optional
+use_directory_urls: true
 
-# Palette (Material Design color scheme)
-palette:
-  primary: deep blue
-  accent: teal
-  background: white
-  text: black
-
-# Markdown & navigation
-markdown: kramdown
-highlighter: rouge
-
-# Navigation structure (for themes that support it via config)
 nav:
-  - title: Home
-    url: /
+  - Home: index.md
+  - Get Started:
+      - Introduction: getting_started.md
+      - Use Cases: use_cases.md
 
-  - title: Get Started
-    children:
-      - title: Introduction
-        url: /get-started/introduction
-      - title: Use Cases
-        url: /get-started/use-cases
+  - Botshare Framework:
+      - L1 - Incubation: L1_Incubation.md
+      - L2 - Acceleration: L2_Acceleration.md
+      - References: references.md
 
-  - title: Botshare Framework
-    children:
-      - title: L1 - Incubation
-        url: /framework/l1-incubation
-      - title: L2 - Acceleration
-        url: /framework/l2-acceleration
-      - title: References
-        url: /framework/references
+  - Company:
+      - Company Overview: company_overview.md
+      - Contributing: contributing.md
+      - FAQ: faq.md
 
-  - title: Company
-    children:
-      - title: Company Overview
-        url: /company/company-overview
-      - title: Contributing
-        url: /company/contributing
-      - title: FAQ
-        url: /company/faq
+  - GitHub Repo: https://github.com/openAMRobot
 
-  - title: GitHub
-    external_url: https://github.com/botshareai/Botshare_book
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
+markdown_extensions:
+  - admonition
+  - pymdownx.details
