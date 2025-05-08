@@ -1,0 +1,10 @@
+title: Botshare Book
+description: Open Robotics AI & Deep-Tech Initiative
+baseurl: "/Botshare_book"
+url: "https://botshareai.github.io"
+theme: jekyll-theme-material-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
