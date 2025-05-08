@@ -3,6 +3,71 @@ description: Open Robotics AI & Deep-Tech Initiative
 baseurl: "/Botshare_book"
 url: "https://botshareai.github.io"
 theme: jekyll-theme-material-docs
+title: Botshare Book
+description: Open Robotics AI & Deep-Tech Initiative
+baseurl: "/Botshare_book"  # Change if using a custom domain
+url: "https://botshareai.github.io"
+
+# Theme and plugins
+remote_theme: fernandopasik/jekyll-theme-material-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# GitHub repo link in header
+repo_url: "https://github.com/botshareai/Botshare_book"
+repo_name: "Botshare Book on GitHub"
+
+# Display options
+#logo: /assets/images/logo.png  # optional if you have one
+#favicon: /assets/images/favicon.ico  # optional
+
+# Palette (Material Design color scheme)
+palette:
+  primary: deep blue
+  accent: teal
+  background: white
+  text: black
+
+# Markdown & navigation
+markdown: kramdown
+highlighter: rouge
+
+# Navigation structure (for themes that support it via config)
+nav:
+  - title: Home
+    url: /
+
+  - title: Get Started
+    children:
+      - title: Introduction
+        url: /get-started/introduction
+      - title: Use Cases
+        url: /get-started/use-cases
+
+  - title: Botshare Framework
+    children:
+      - title: L1 - Incubation
+        url: /framework/l1-incubation
+      - title: L2 - Acceleration
+        url: /framework/l2-acceleration
+      - title: References
+        url: /framework/references
+
+  - title: Company
+    children:
+      - title: Company Overview
+        url: /company/company-overview
+      - title: Contributing
+        url: /company/contributing
+      - title: FAQ
+        url: /company/faq
+
+  - title: GitHub
+    external_url: https://github.com/botshareai/Botshare_book
+
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
