@@ -2,7 +2,7 @@ title: Botshare Book
 description: Open Robotics AI & Deep-Tech Initiative
 baseurl: "/Botshare_book"
 url: "https://botshareai.github.io"
-theme: jekyll-theme-material-docs
+theme: material
 title: Botshare Book
 description: Open Robotics AI & Deep-Tech Initiative
 baseurl: "/Botshare_book"  # Change if using a custom domain
