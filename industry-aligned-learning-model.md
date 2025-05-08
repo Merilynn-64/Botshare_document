@@ -1,0 +1,3 @@
+# Industry-Aligned Learning Model
+
+Designed with feedback from tech industry partners...

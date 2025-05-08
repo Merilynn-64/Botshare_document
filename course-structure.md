@@ -1,0 +1,3 @@
+# Course Structure
+
+Three phases: Incubation, Acceleration, and Professional Development...

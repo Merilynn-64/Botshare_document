@@ -1,8 +1,3 @@
----
-title: Overview
-layout: default
----
+# Overview
 
-# Open Robotics AI & Deep-Tech Initiative
-
-Open Robotics AI & Deep-Tech Training is an open-source, hands-on initiative designed to equip learners with STEM, robotics, AI, and business development skills...
+Intro to the Open Robotics AI & Deep-Tech Initiative...
