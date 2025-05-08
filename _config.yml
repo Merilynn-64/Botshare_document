@@ -10,59 +10,12 @@ plugins:
 repo_url: "https://github.com/merilynn-64/Botshare_document"
 repo_name: "GitHub"
 
-theme:
-  name: "material"
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - toc.integrate
-    - search.suggest
-    - search.highlight
-    - content.code.copy
-  palette:
-    - scheme: default
-      primary: dark blue
-      toggle:
-        icon: material/lightbulb-outline
-        name: Switch to dark mode
-    - scheme: slate
-      primary: blue
-      toggle:
-        icon: material/lightbulb
-        name: Switch to light mode
+palette:
+  primary: deep purple
+  accent: teal
+  background: white
+  text: black
 
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/solid/envelope
-      link: mailto:info@botshare.ai
-    - icon: fontawesome/brands/github
-      link: https://github.com/openAMRobot
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/botshare
 
-use_directory_urls: true
+Apply Material theme config
 
-nav:
-  - Home: index.md
-  - Get Started:
-      - Introduction: getting_started.md
-      - Use Cases: use_cases.md
-
-  - Botshare Framework:
-      - L1 - Incubation: L1_Incubation.md
-      - L2 - Acceleration: L2_Acceleration.md
-      - References: references.md
-
-  - Company:
-      - Company Overview: company_overview.md
-      - Contributing: contributing.md
-      - FAQ: faq.md
-
-  - GitHub Repo: https://github.com/openAMRobot
-
-markdown_extensions:
-  - admonition
-  - pymdownx.details
