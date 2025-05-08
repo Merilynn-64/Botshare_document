@@ -1,1 +1,36 @@
+- title: Home
+  url: /
 
+- title: Get Started
+  children:
+    - title: Introduction
+      url: /get-started/introduction
+    - title: Use Cases
+      url: /get-started/use-cases
+
+- title: Botshare Framework
+  children:
+    - title: L1 - Incubation
+      url: /framework/l1-incubation
+    - title: L2 - Acceleration
+      url: /framework/l2-acceleration
+    - title: References
+      url: /framework/references
+
+- title: Company
+  children:
+    - title: Company Overview
+      url: /company/company-overview
+    - title: Contributing
+      url: /company/contributing
+    - title: FAQ
+      url: /company/faq
+
+- title: GitHub
+  external_url: https://github.com/merilynn-64/Botshare_document
+
+
+
+
+
+Add site navigation
