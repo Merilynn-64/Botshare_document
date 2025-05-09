@@ -5,8 +5,4 @@ This initiative comprised of two parts: **[Level_1: Incubation](L1_Incubation/)*
 
 By integrating **AMRs with intelligent storage solutions**, we provide an **affordable, scalable, and flexible** warehouse automation framework while **training professionals in deep-tech disciplines** to drive innovation in robotics and AI.  
 
-## Who benefits?  
-This program is designed for a wide range of participants, including:  
-
-- **Aspiring Robotics & AI engineers** – Seamless learning path from school-level STEM to professional robotics and AI development.
-- **Engineers & Tech professionals** – Gain expertise in robotics, AI, and industrial automation.  
+  
