@@ -17,7 +17,7 @@ theme:
     - content.code.copy
   palette:
     - scheme: default
-      primary: deep purple
+      primary: dark blue
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
@@ -45,11 +45,11 @@ nav:
       - Introduction: getting_started.md
       - Use Cases: use_cases.md
   - Botshare Framework:
-      - L1 - Incubation: L1_Incubation.md
-      - L2 - Acceleration: L2_Acceleration.md
+      - L1 - Incubation: level-1-incubation.md
+      - L2 - Acceleration: level-2-acceleration.md
       - References: references.md
   - Company:
-      - Company Overview: company_overview.md
+      - Company Overview: company-overview.md
       - Contributing: contributing.md
       - FAQ: faq.md
   - GitHub Repo: https://github.com/openAMRobot
