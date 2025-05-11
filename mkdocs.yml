@@ -26,8 +26,8 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
-  logo: docs/assets/images/logo.jpg
-  favicon: docs/assets/images/favicon.png
+  logo: assets/images/logo.jpg
+  favicon: assets/images/favicon.png
 
 extra:
   generator: false
