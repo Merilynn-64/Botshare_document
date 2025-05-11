@@ -9,6 +9,8 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.path
+    - navigation.expand
+    - navigation.indexes
     - navigation.top
     - toc.integrate
     - search.suggest
