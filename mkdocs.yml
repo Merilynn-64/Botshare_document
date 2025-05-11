@@ -37,33 +37,31 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
-
 nav:
   - Home:
-      - Welcome: overview.md
+      - Welcome: index.md
 
-      - Overview: 
-          - Our Solution: our-solution.md
-          - What You Will Learn: what-you-will-learn.md
-          - Course Outcomes: course-outcomes.md
+      - Overview:
+          - Our Solution: overview/our-solution.md
+          - What You Will Learn: overview/what-you-will-learn.md
+          - Course Outcomes: overview/course-outcomes.md
 
       - Framework:
-          - L1 - Incubation: l1-incubation.md
-          - L2 - Acceleration: l2-acceleration.md
-          - Core Pillars: core-pillars.md
+          - L1 - Incubation: framework/l1-incubation.md
+          - L2 - Acceleration: framework/l2-acceleration.md
+          - Core Pillars: framework/core-pillars.md
 
       - Learning Model:
-          - AI-Powered Adaptive Learning: ai-powered-adaptive-learning.md
-          - Industry-Aligned Learning Model: industry-aligned-learning-model.md
-          - Professional Open-Source Learning: professional-open-source-learning.md
-          
-      - Audience & Support:
-          - Who Benefits: who-benefits.md
-          - Target Audience & Career Paths: target-audience-career-paths.md
-          - Certification & Career Support: certification-career-support.md
-          - Get started: get-started-now.md
+          - AI-Powered Adaptive Learning: learning model/ai-powered-adaptive-learning.md
+          - Industry-Aligned Learning Model: learning model/industry-aligned-learning-model.md
+          - Professional Open-Source Learning: learning model/professional-open-source-learning.md
 
-    
+      - Audience & Support:
+          - Who Benefits: audience/who-benefits.md
+          - Target Audience & Career Paths: audience/target-audience-career-paths.md
+          - Certification & Career Support: audience/certification-career-support.md
+          - Get Started: audience/get-started-now.md
+
   - Start Now:
       - Introduction: getting_started.md
       - Use Cases: use-cases.md
