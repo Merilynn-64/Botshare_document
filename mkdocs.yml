@@ -15,8 +15,6 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
-  collapse:
-    sidebar: true 
   palette:
     - scheme: default
       primary: dark blue
@@ -40,6 +38,9 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
+extra_javascript:
+  - js/collapse-sidebar.js
+
 nav:
   - Home:
       - Welcome: index.md
