@@ -1,18 +1,22 @@
 document$.subscribe(() => {
-  const sections = document.querySelectorAll('.md-nav__item--nested');
+  const navItems = document.querySelectorAll('.md-nav__item--nested');
 
-  sections.forEach(section => {
-    const toggle = section.querySelector('.md-nav__link');
+  navItems.forEach((item) => {
+    const toggle = item.querySelector('.md-nav__link');
 
     if (toggle) {
       toggle.addEventListener('click', () => {
-        // Close other sections
-        sections.forEach(other => {
-          if (other !== section) {
-            other.classList.remove('md-nav__item--active');
+        // Collapse all other sections
+        navItems.forEach((otherItem) => {
+          if (otherItem !== item) {
+            otherItem.classList.remove('md-nav__item--active');
           }
         });
+
+        // Toggle the clicked section
+        item.classList.toggle('md-nav__item--active');
       });
     }
   });
 });
+
