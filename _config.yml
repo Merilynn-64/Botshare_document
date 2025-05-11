@@ -20,7 +20,7 @@ palette:
   text: black
 
 # Logo and Favicon
-logo: /assets/logo.png       
+logo: /assets/logo.jpg       
 favicon: /assets/favicon.png  
 # Markdown rendering
 markdown: kramdown
