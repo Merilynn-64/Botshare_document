@@ -43,14 +43,14 @@ This program is designed for a wide range of participants, including:
 - **AI & IoT Integration** - Smart environments, computer vision, and real-time automation.
 - **Digital Labs** - Alternative energy, biomedical electronics, cybersecurity, hands-on learning.
 - **Robot factory** - Unique classroom based open development hub for prototyping, small-scale production, and real-world applications.
-![DIY kit: Boteon_education](assets/Smart_house_Boteon.jpg)
+![DIY kit: Boteon_education](docs/assets/images/Smart_house_Boteon.jpg)
 
 ### Level 2:Robotics and AI acceleration
 - **Master AI & Robotics Fundamentals** – Path planning, embedded systems, computer vision, deep learning.  
 - **Build & Test Real-World Automation Projects** – Warehouse robotics, autonomous navigation.  
 - **Develop Business & Entrepreneurship Skills** – Commercializing robotics solutions, RaaS models.  
 - **Work on Industry-Specific Applications** – E-commerce fulfillment, last-mile delivery, AI logistics.
-![DIY kit: Boteon_education](assets/AMR_transparent.jpg)
+![DIY kit: Boteon_education](docs/assets/images/AMR_transparent.jpg)
 
 ## Professional Open-Source Learning Environment  
 This program immerses students in the same development environment used by AI and robotics professionals.  
