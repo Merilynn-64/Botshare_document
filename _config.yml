@@ -6,15 +6,25 @@ url: "https://merilynn-64.github.io"
 remote_theme: fernandopasik/jekyll-theme-material-docs
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 repo_url: "https://github.com/merilynn-64/Botshare_document"
 repo_name: "GitHub"
 
 palette:
-  primary: deep purple
+  primary: dark blue
   accent: teal
   background: white
   text: black
+
+# Logo and Favicon
+logo: /assets/logo.png       
+favicon: /assets/favicon.png  
+# Markdown rendering
+markdown: kramdown
+highlighter: rouge
 
 
 
