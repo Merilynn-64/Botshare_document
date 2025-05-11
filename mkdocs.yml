@@ -40,34 +40,31 @@ extra:
 
 nav:
   - Home:
-      - Welcome: index.md
+      - Welcome: overview.md
       - Our Solution: our-solution.md
       - What You Will Learn: what-you-will-learn.md
       - Course Outcomes: course-outcomes.md
 
   - Get Started:
-      - Introduction: getting_started.md
-      - Use Cases: use_cases.md
+      - Introduction: introduction.md
       - Get Started Now: get-started-now.md
 
-  - Botshare Framework:
-      - L1 - Incubation: L1_Incubation.md
-      - L2 - Acceleration: L2_Acceleration.md
+  - Company Framework:
+      - L1 - Incubation: l1-incubation.md
+      - L2 - Acceleration: l2-acceleration.md
       - Core Pillars: core-pillars.md
-      - References: references.md
 
   - Learning Model:
       - Industry-Aligned Learning Model: industry-aligned-learning-model.md
       - AI-Powered Adaptive Learning: ai-powered-adaptive-learning.md
       - Professional Open-Source Learning: professional-open-source-learning.md
-      - Course Structure: course-structure.md
 
   - Audience & Support:
       - Who Benefits: who-benefits.md
       - Target Audience & Career Paths: target-audience-career-paths.md
       - Certification & Career Support: certification-career-support.md
     
-  - Get Started:
+  - Start Now:
       - Introduction: getting_started.md
       - Use Cases: use-cases.md
   - Botshare Framework:
