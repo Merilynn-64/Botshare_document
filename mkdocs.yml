@@ -40,7 +40,7 @@ extra:
 
 nav:
   - Home:
-      - Welcome: index.md
+      - Welcome: overview.md
 
       - Overview: 
           - Our Solution: our-solution.md
@@ -48,8 +48,8 @@ nav:
           - Course Outcomes: course-outcomes.md
 
       - Course Framework:
-          - L1 - Incubation: level-1-incubation.md
-          - L2 - Acceleration: level-2-acceleration.md
+          - L1 - Incubation: l1-incubation.md
+          - L2 - Acceleration: l2-acceleration.md
           - Core Pillars: core-pillars.md
 
       - Learning Model:
