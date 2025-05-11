@@ -1,22 +1,21 @@
 document$.subscribe(() => {
-  const navItems = document.querySelectorAll('.md-nav__item--nested');
+  const nestedItems = document.querySelectorAll('.md-nav__item--nested > .md-nav__link');
 
-  navItems.forEach((item) => {
-    const toggle = item.querySelector('.md-nav__link');
+  nestedItems.forEach((toggle) => {
+    toggle.addEventListener('click', (e) => {
+      const currentItem = toggle.parentElement;
 
-    if (toggle) {
-      toggle.addEventListener('click', () => {
-        // Collapse all other sections
-        navItems.forEach((otherItem) => {
-          if (otherItem !== item) {
-            otherItem.classList.remove('md-nav__item--active');
-          }
+      // Skip if this item is already active
+      const isActive = currentItem.classList.contains('md-nav__item--active');
+      if (!isActive) {
+        // Close all others
+        document.querySelectorAll('.md-nav__item--nested.md-nav__item--active').forEach((item) => {
+          item.classList.remove('md-nav__item--active');
         });
-
-        // Toggle the clicked section
-        item.classList.toggle('md-nav__item--active');
-      });
-    }
+      }
+      // Let MkDocs handle activating this item
+    });
   });
 });
+
 
