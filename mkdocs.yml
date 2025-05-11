@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.indexes
+    - navigation.section
     - navigation.top
     - search.suggest
     - search.highlight
@@ -36,8 +37,6 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
-extra_javascript:
-  - js/collapse-sidebar.js
 
 nav:
   - Home:
