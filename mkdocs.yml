@@ -43,7 +43,7 @@ nav:
   - Home: index.md
   - Get Started:
       - Introduction: getting_started.md
-      - Use Cases: use_cases.md
+      - Use Cases: use-cases.md
   - Botshare Framework:
       - L1 - Incubation: level-1-incubation.md
       - L2 - Acceleration: level-2-acceleration.md
