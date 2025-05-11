@@ -2,8 +2,12 @@ site_name: "Botshare Book"
 description: Open Robotics AI & Deep-Tech Initiative
 baseurl: "/Botshare_document"
 url: "https://merilynn-64.github.io"
-theme:
-  name: "material"
+remote_theme: fernandopasik/jekyll-theme-material-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
   features:
     - navigation.tabs
     - navigation.sections
