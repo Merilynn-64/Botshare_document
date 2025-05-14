@@ -1,3 +1,0 @@
-# Sound Lab
-
-Content placeholder.
