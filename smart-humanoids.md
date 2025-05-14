@@ -1,3 +1,0 @@
-# Smart Humanoids
-
-Content placeholder.
