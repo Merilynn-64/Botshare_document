@@ -1,3 +1,0 @@
-# Smart Cleaning
-
-Content placeholder.
