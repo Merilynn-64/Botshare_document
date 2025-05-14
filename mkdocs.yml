@@ -65,6 +65,10 @@ nav:
 
   - Start Now:
       - Introduction: getting_started.md
+      - Course Format:
+        - Training Format: Training Format.md
+        - Learning Roadmap: learning-roadmap.md
+        - Venue: Venue & enrollment.md
       - Use Cases: use-cases.md
   - Botshare Framework:
       - L1 - Incubation: level-1-incubation.md
