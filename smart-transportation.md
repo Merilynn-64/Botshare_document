@@ -1,3 +1,0 @@
-# Smart Transportation
-
-Content placeholder.
