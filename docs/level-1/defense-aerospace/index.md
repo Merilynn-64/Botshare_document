@@ -1,4 +1,4 @@
-## 5.Defense & Aerospace
+## Defense & Aerospace
 - **Smart Security** – AI-driven surveillance, biometric authentication, cyber defense, and automated threat detection.
 - **Smart Defense** – AI-powered surveillance drones, autonomous ground vehicles.
 - **Smart Communication & Radar Systems** – AI-enhanced radio networks and and electronic warefare systems, LiDAR-based mapping, satellite-based networks.
