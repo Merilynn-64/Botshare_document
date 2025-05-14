@@ -17,11 +17,6 @@ Small and medium-sized warehouses struggle with rising e-commerce demand, ineffi
 - **Format:** Video lessons, webinars, hands-on projects, quizzes  
 - **Certification:** Industry-recognized certificate upon completion  
 
-## Venue and enrollment
-- **Venue:** Germany, Berlin, BHT University Mechatronics Lab, Botshare co-working space.
-- **Enrollment:** Ongoing basis
-- **Tuition:** Free (donations and pledges are voluntary).
-
 ## Certification and career opportunities
 - Develop deep technical expertise in AI, robotics, and automation.
 - Gain real-world experience through hands-on industry projects.
