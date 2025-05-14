@@ -1,3 +1,0 @@
-# Smart Prosthetics
-
-Content placeholder.
