@@ -1,4 +1,4 @@
-## 9. Autonomous Technologies
+## Autonomous Technologies
 - **Smart Drones** – AI-powered aerial surveillance, automated delivery drones, and autonomous mapping systems.
 - **Smart Swarm Robotics** – AI-controlled robot teams for disaster response, agriculture, and industrial applications.
 - **Smart Humanoids & Assistive Robots** – AI-powered humanoid robots for education, research, and human interaction.
