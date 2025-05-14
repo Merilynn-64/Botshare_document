@@ -1,3 +1,0 @@
-# Optics Lab
-
-Content placeholder.
