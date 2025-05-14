@@ -1,3 +1,0 @@
-# Smart Materials
-
-Content placeholder.
