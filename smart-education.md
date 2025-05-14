@@ -1,0 +1,3 @@
+# Smart Education
+
+Content placeholder.

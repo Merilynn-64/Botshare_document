@@ -1,0 +1,3 @@
+# Smart Home
+
+Content placeholder.

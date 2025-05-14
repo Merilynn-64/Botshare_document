@@ -1,0 +1,3 @@
+# Smart Construction
+
+Content placeholder.

@@ -1,0 +1,3 @@
+# Smart Warehousing
+
+Content placeholder.

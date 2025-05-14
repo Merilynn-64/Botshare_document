@@ -1,0 +1,3 @@
+# Magnetism Lab
+
+Content placeholder.

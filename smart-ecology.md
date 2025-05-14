@@ -1,0 +1,3 @@
+# Smart Ecology
+
+Content placeholder.

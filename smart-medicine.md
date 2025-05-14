@@ -1,0 +1,3 @@
+# Smart Medicine
+
+Content placeholder.

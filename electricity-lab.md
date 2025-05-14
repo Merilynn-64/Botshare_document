@@ -1,0 +1,3 @@
+# Electricity Lab
+
+Content placeholder.

@@ -1,0 +1,3 @@
+# Smart Factory
+
+Content placeholder.

@@ -1,0 +1,3 @@
+# Smart Hospitals
+
+Content placeholder.

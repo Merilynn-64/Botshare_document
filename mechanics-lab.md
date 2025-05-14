@@ -1,0 +1,3 @@
+# Mechanics Lab
+
+Content placeholder.
