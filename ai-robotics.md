@@ -1,3 +1,0 @@
-# Ai Robotics
-
-Content placeholder.
