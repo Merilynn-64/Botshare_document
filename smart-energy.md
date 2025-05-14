@@ -1,3 +1,0 @@
-# Smart Energy
-
-Content placeholder.
