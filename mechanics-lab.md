@@ -1,3 +1,0 @@
-# Mechanics Lab
-
-Content placeholder.
