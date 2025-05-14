@@ -1,3 +1,0 @@
-# Smart Drones
-
-Content placeholder.
