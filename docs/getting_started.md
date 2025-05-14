@@ -10,13 +10,7 @@ Welcome to Open Robotics AI & Deep-Tech Education, a structured, open-source edu
 
 ## Problem-based learning  
 Small and medium-sized warehouses struggle with rising e-commerce demand, inefficient inventory management, and high operational costs. Traditional automation solutions are expensive and complex, leaving many SMEs without scalable options. Additionally, engineers, operators, and business owners often lack the necessary knowledge and tools to adopt AI and robotics solutions.  
-
-### **Course Format**  
-- **Duration:** 4 months per module  
-- **Lessons:** Twice a week, 2-hour sessions (64 hours per module)  
-- **Format:** Video lessons, webinars, hands-on projects, quizzes  
-- **Certification:** Industry-recognized certificate upon completion  
-
+  
 ## Certification and career opportunities
 - Develop deep technical expertise in AI, robotics, and automation.
 - Gain real-world experience through hands-on industry projects.
