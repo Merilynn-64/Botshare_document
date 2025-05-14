@@ -1,3 +1,0 @@
-# Heat Lab
-
-Content placeholder.
