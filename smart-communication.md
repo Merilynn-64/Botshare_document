@@ -1,3 +1,0 @@
-# Smart Communication
-
-Content placeholder.
