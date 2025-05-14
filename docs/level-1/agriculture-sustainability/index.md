@@ -1,4 +1,4 @@
-## 3. Agriculture & Sustainability
+## Agriculture & Sustainability
 - **Smart Farming** – AI-driven crop monitoring, automated irrigation, greenhouse automation, and precision agriculture.
 - **Smart Forestry** – AI-powered deforestation monitoring, automated tree planting, and wildfire prediction.
 - **Smart Ecology** – Real-time pollution monitoring, AI-powered environmental conservation, and green city planning.
