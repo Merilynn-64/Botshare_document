@@ -1,4 +1,4 @@
-## 1. Industrial Automation
+## Industrial Automation
 - **Smart Factory** – AI-powered robotics, IoT-based automation, predictive maintenance, and real-time process optimization.
 - **Smart Warehousing** – Robotic inventory management, AI-driven logistics, automated sorting, and warehouse digital twins.
 - **Smart Assembly Lines** – CV, ML and AI-enhanced robotic assembly, cobots for human-machine collaboration.
