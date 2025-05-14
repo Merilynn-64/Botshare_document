@@ -1,3 +1,0 @@
-# Smart Security
-
-Content placeholder.
