@@ -1,3 +1,0 @@
-# Biology Lab
-
-Content placeholder.
