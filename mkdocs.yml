@@ -45,15 +45,15 @@ extra:
 
 nav:
   - Homepage: index.md
-  - L1 - Incubation:
+  - L1 Incubation:
       - Overview: L1/index.md
       - Lesson 1: L1/lesson-1.md
       - Lesson 2: L1/lesson-2.md
-  - L2 - Acceleration:
+  - L2 Acceleration:
       - Overview: L2/index.md
       - Lesson 1: L2/lesson-1.md
       - Lesson 2: L2/lesson-2.md
-  - L3 - Mastery:
+  - L3 Mastery:
       - Overview: L3/index.md
       - Lesson 1: L3/lesson-1.md
       - Lesson 2: L3/lesson-3.md
