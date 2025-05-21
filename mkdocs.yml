@@ -48,8 +48,9 @@ nav:
 
   - L1 Incubation:
       - Overview: L1-Incubation/index.md
-      - Lesson 1: L1-Incubation/lesson-1.md
-      - Lesson 2: L1-Incubation/lesson-2.md
+      -lessons:
+        - Lesson 1: L1-Incubation/lessons/lesson-1.md
+        - Lesson 2: L1-Incubation/lessons/lesson-2.md
 
   - L2 Acceleration:
       - Overview: L2-Acceleration/index.md
