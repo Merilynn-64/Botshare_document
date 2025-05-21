@@ -41,8 +41,7 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/solid/heart
       link: https://your-donation-link.com
-    - icon: fontawesome/solid/info-circle
-      link: https://botshare.ai
+    
 
 nav:
   - Homepage: index.md
