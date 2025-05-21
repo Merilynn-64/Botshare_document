@@ -52,8 +52,8 @@ nav:
       - About us: about-us.md
  
   - L1:
-    - L1 Incubation:
-      - Overview: level-1/level-1-incubation.md
+    
+      - Homepage: index.md
 
       - lesson 1:
           - Overview: level-1/industrial-automation/index.md
@@ -127,7 +127,7 @@ nav:
           - Electricity Lab: level-1/mini-labs/arduino-based-lab/electricity-lab.md
           - School Science Kits: level-1/mini-labs/school-science-kits.md
           - Digital Lab Equipment: level-1/mini-labs/digital-lab-equipment.md
-         
+     - About us: about-us.md  
   - L2: level-2-acceleration.md
   - L3: references.md 
   - About us: about-us.md
