@@ -39,7 +39,7 @@ extra:
       link: https://www.linkedin.com/company/botshare
 
 nav:
-  - Home:
+  - Homepage:
       - Welcome: index.md
 
       - Overview:
@@ -47,22 +47,22 @@ nav:
           - What You Will Learn: overview/what-you-will-learn.md
           - Course Outcomes: overview/course-outcomes.md
 
-      - Framework:
+      - level 1:
           - L1 - Incubation: framework/l1-incubation.md
           - L2 - Acceleration: framework/l2-acceleration.md
           - Core Pillars: framework/core-pillars.md
 
-      - Learning Model:
+      - Level 2:
           - AI-Powered Adaptive Learning: learning model/ai-powered-adaptive-learning.md
           - Industry-Aligned Learning Model: learning model/industry-aligned-learning-model.md
           - Professional Open-Source Learning: learning model/professional-open-source-learning.md
 
-      - Audience & Support:
+      - level 3:
           - Who Benefits: audience/who-benefits.md
           - Target Audience & Career Paths: audience/target-audience-career-paths.md
           - Certification & Career Support: audience/certification-career-support.md
           - Get Started: audience/get-started-now.md
-
+      - About us: about-us.md
   - Start Now:
       - Introduction: getting_started.md
       - Course Format:
@@ -70,31 +70,31 @@ nav:
         - Learning Roadmap: Course Format/learning-roadmap.md
         - Venue: Course Format/venue-enrollment.md
       - Use Cases: use-cases.md
-  - Botshare Framework:
+  - L1:
     - L1 Incubation:
       - Overview: level-1/level-1-incubation.md
 
-      - Industrial Automation:
+      - lesson 1:
           - Overview: level-1/industrial-automation/index.md
           - Smart Factory: level-1/industrial-automation/smart-factory.md
           - Smart Warehousing: level-1/industrial-automation/smart-warehousing.md
           - Smart Assembly Lines: level-1/industrial-automation/smart-assembly-lines.md
           - Smart Materials: level-1/industrial-automation/smart-materials.md
 
-      - Smart Homes:
+      - lesson 2:
           - Overview: level-1/smart-homes/index.md
           - Smart Home: level-1/smart-homes/smart-home.md
           - Smart Cleaning: level-1/smart-homes/smart-cleaning.md
           - Smart Personal Assistant: level-1/smart-homes/smart-personal-assistant.md
 
-      - Agriculture & Sustainability:
+      - lesson 3:
           - Overview: level-1/agriculture-sustainability/index.md
           - Smart Farming: level-1/agriculture-sustainability/smart-farming.md
           - Smart Forestry: level-1/agriculture-sustainability/smart-forestry.md
           - Smart Ecology: level-1/agriculture-sustainability/smart-ecology.md
           - Smart Energy: level-1/agriculture-sustainability/smart-energy.md
 
-      - Smart Cities:
+      - lesson 4:
           - Overview: level-1/smart-cities/index.md
           - Smart City: level-1/smart-cities/smart-city.md
           - Smart Transportation: level-1/smart-cities/smart-transportation.md
@@ -102,39 +102,39 @@ nav:
           - Smart Water Management: level-1/smart-cities/smart-water-management.md
           - Smart Disaster Response: level-1/smart-cities/smart-disaster-response.md
 
-      - Defense & Aerospace:
+      - lesson 5:
           - Overview: level-1/defense-aerospace/index.md
           - Smart Security: level-1/defense-aerospace/smart-security.md
           - Smart Defense: level-1/defense-aerospace/smart-defense.md
           - Smart Communication: level-1/defense-aerospace/smart-communication.md
           - Smart Laser System: level-1/defense-aerospace/smart-laser-system.md
 
-      - Healthcare:
+      - lesson 6:
           - Overview:  level-1/healthcare/index.md
           - Smart Medicine: level-1/healthcare/smart-medicine.md
           - Smart Mental Health: level-1/healthcare/smart-mental-health.md
           - Smart Prosthetics: level-1/healthcare/smart-prosthetics.md
           - Smart Hospitals: level-1/healthcare/smart-hospitals.md
 
-      - Marine & Space:
+      - lesson 7:
           - Overview: level-1/marine-space/index.md
           - Smart Marine Drones: level-1/marine-space/smart-marine-drones.md
           - Smart Mars Settlement: level-1/marine-space/smart-mars-settlement.md
           - Smart Space Exploration: level-1/marine-space/smart-space-exploration.md
 
-      - Education & Research:
+      - lesson 8:
           - Overview: level-1/education-research/index.md
           - Smart Education: level-1/education-research/smart-education.md
           - Smart Research Labs: level-1/education-research/smart-research-labs.md
           - AI Scientific Innovation: level-1/education-research/ai-scientific-innovation.md
 
-      - Autonomous Tech:
+      - lesson 9:
           - Overview:  level-1/autonomous-tech/index.md
           - Smart Drones: level-1/autonomous-tech/smart-drones.md
           - Smart Humanoids: level-1/autonomous-tech/smart-humanoids.md
           - Smart Swarm Robotics: level-1/autonomous-tech/smart-swarm-robotics.md
 
-      - Mini Labs:
+      - lesson 10:
           - overview:  level-1/mini-labs/index.md
           - Biology Lab: level-1/mini-labs/arduino-based-lab/biology-lab.md
           - Water & Air Lab: level-1/mini-labs/arduino-based-lab/water-air-lab.md
@@ -149,11 +149,11 @@ nav:
 
       - L2 - Acceleration: level-2-acceleration.md
       - References: references.md
-  - Company:
+  - About us:
       - Company Overview: company-overview.md
       - Contributing: contributing.md
       - FAQ: faq.md
-  - GitHub Repo: https://github.com/openAMRobot
+  
 
 markdown_extensions:
   - admonition
