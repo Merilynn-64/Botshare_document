@@ -44,12 +44,12 @@ extra:
     
 
 nav:
-  - Homepage: 
-    - index.md
-    - l1: level-1.md
-    - l2: level-2.md
-    - l3: level-3.md
-    - Company: about-us.md
+  - Homepage:
+      - Home: index.md
+      - L1 Intro: level-1.md
+      - L2 Intro: level-2.md
+      - L3 Intro: level-3.md
+      - Company Overview: about-us.md
 
   - L1 Incubation:
       - Homepage: index.md
