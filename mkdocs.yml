@@ -37,26 +37,28 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
+    - icon: fontawesome/brands/github
+      link: https://github.com/openAMRobot
+    - icon: fontawesome/solid/heart
+      link: https://your-donation-link.com
+    - icon: fontawesome/solid/info-circle
+      link: https://botshare.ai
 
 nav:
-  - Homepage: 
-      - index.md
-      - L1: level-1.md
-      - L2: level-2.md
-      - L3: level-3.md
-  - L1:
-      - L1/index.md
-      - Lesson 1: L1/lesson-1.md
-      - Lesson 2: L1/lesson-2.md
-  - L2:
-      - L2/index.md
-      - Lesson 1: L2/lesson-1.md
-      - Lesson 2: L2/lesson-2.md
-  - L3:
-      - L3/index.md
-      - Lesson 1: L3/lesson-1.md
-      - Lesson 2: L3/lesson-2.md
-  - About us: about-us.md 
+  - Homepage: index.md
+  - L1 - Incubation:
+      - Overview: L1/index.md
+      - Lesson 1: L1/lesson1.md
+      - Lesson 2: L1/lesson2.md
+  - L2 - Acceleration:
+      - Overview: L2/index.md
+      - Lesson 1: L2/lesson1.md
+      - Lesson 2: L2/lesson2.md
+  - L3 - Mastery:
+      - Overview: L3/index.md
+      - Lesson 1: L3/lesson1.md
+      - Lesson 2: L3/lesson2.md
+  - About Us: about/index.md
 
 markdown_extensions:
   - admonition
