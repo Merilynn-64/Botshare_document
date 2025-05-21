@@ -46,7 +46,6 @@ nav:
       - L3: level-3.md
       - About us: about-us.md
   - L1:
-      - Homepage: index.md
       - L1/index.md
       - Lesson 1: L1/lesson-1.md
       - Lesson 2: L1/lesson-2.md
