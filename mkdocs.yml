@@ -44,14 +44,20 @@ extra:
     
 
 nav:
-  - Homepage: index.md
+  - Homepage: 
+    - index.md
+    - l1: level-1.md
+    - l2: level-2.md
+    - l3: level-3.md
+    - Company: about-us.md
 
   - L1 Incubation:
+      - Homepage: index.md
       - Overview: L1-Incubation/index.md
       - Lessons:
-        - Lesson 1: L1-Incubation/Lessons/lesson-1.md
-        - Lesson 2: L1-Incubation/Lessons/lesson-2.md
-            
+          - Lesson 1: L1-Incubation/Lessons/lesson-1.md
+          - Lesson 2: L1-Incubation/Lessons/lesson-2.md
+ 
   - L2 Acceleration:
       - Overview: L2-Acceleration/index.md
       - Lesson 1: L2-Acceleration/lesson-1.md
