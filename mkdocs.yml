@@ -9,7 +9,7 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.indexes
-    - navigation.section
+    - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
