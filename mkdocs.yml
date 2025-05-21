@@ -58,7 +58,7 @@ nav:
       - Overview: L3/index.md
       - Lesson 1: L3/lesson-1.md
       - Lesson 2: L3/lesson-3.md
-  - About Us: about/index.md
+  - About Us: about-us.md
 
 markdown_extensions:
   - admonition
