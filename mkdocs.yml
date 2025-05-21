@@ -44,13 +44,8 @@ extra:
     
 
 nav:
-  - Homepage:
-      - Home: index.md
-      - L1 Intro: level-1.md
-      - L2 Intro: level-2.md
-      - L3 Intro: level-3.md
-      - Company Overview: about-us.md
-
+  - Homepage: index.md
+  
   - L1 Incubation:
       - Homepage: index.md
       - Overview: L1-Incubation/index.md
