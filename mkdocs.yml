@@ -41,28 +41,35 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/solid/heart
       link: https://your-donation-link.com
-    
-
 nav:
   - Homepage: index.md
-  
+
   - L1 Incubation:
+      - Homepage: L1-Incubation/home.md
       - Overview: L1-Incubation/index.md
       - Lessons:
           - Lesson 1: L1-Incubation/Lessons/lesson-1.md
-          - Lesson 2: L1-Incubation/Lessons/lesson-3.md
- 
+          - Lesson 2: L1-Incubation/Lessons/lesson-2.md
+      - About Us: about-us.md
+
   - L2 Acceleration:
+      - Homepage: L2-Acceleration/home.md
       - Overview: L2-Acceleration/index.md
-      - Lesson 1: L2-Acceleration/lesson-1.md
-      - Lesson 2: L2-Acceleration/lesson-2.md
+      - Lessons:
+          - Lesson 1: L2-Acceleration/Lessons/lesson-1.md
+          - Lesson 2: L2-Acceleration/Lessons/lesson-2.md
+      - About Us: about-us.md
 
   - L3 Mastery:
+      - Homepage: L3-Mastery/home.md
       - Overview: L3-Mastery/index.md
-      - Lesson 1: L3-Mastery/lesson-1.md
-      - Lesson 2: L3-Mastery/lesson-2.md
+      - Lessons:
+          - Lesson 1: L3-Mastery/Lessons/lesson-1.md
+          - Lesson 2: L3-Mastery/Lessons/lesson-2.md
+      - About Us: about-us.md
+    
 
-  - About Us: about-us.md
+
 
 
 markdown_extensions:
