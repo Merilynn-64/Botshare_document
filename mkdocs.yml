@@ -41,21 +41,12 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/solid/heart
       link: https://your-donation-link.com
-- Homepage:
-      
-      - Homepage: index.md
+
+nav:
+  - Homepage: index.md
           
-      - L1: level-1.md
-          
-      - L2: level-2.md
-          
-      - L3: level-3.md
-          
-      - About us: about-us.md
  
   - L1:
-    
-      - Homepage: index.md
 
       - lesson 1:
           - Overview: level-1/industrial-automation/index.md
