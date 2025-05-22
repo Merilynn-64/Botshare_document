@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block main %}
+    {{ super() }}
+{% endblock %}
+
+{% block footer %}
+{{ super() }}
+<div style="width: 100%; background-color: black; padding: 10px;">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+        
+        <!-- Social Icons (Using Material Theme Classes) -->
+        <a href="mailto:info@botshare.ai" title="Email" style="color: white;">
+            <span class="md-icon md-icon--email"></span>
+        </a>
+        <a href="https://github.com/openAMRobot" title="GitHub" style="color: white;">
+            <span class="md-icon md-icon--github"></span>
+        </a>
+        <a href="https://www.linkedin.com/company/botshare" title="LinkedIn" style="color: white;">
+            <span class="md-icon md-icon--linkedin"></span>
+        </a>
+
+        <!-- PayPal Donate Button -->
+        <a href="https://www.paypal.com/paypalme/BotshareAI" target="_blank">
+            <img src="https://img.shields.io/badge/Donate-PayPal-black.svg" alt="Donate via PayPal" style="border-radius: 5px; height: 25px;">
+        </a>
+
+        <!-- Copyright Notice -->
+        <span style="color: white; font-size: 14px;">
+            © 2025 Botshare. All rights reserved.
+        </span>
+
+    </div>
+</div>
+{% endblock %}
