@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.path
     - navgation.indexes
+    - navigation.expand
     - navigation.sections
     - navigation.top
     - search.suggest
