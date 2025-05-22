@@ -9,7 +9,6 @@ theme:
     - navigation.tabs
     - navigation.path
     - navgation.indexes
-    - navigation.expand
     - navigation.sections
     - navigation.top
     - search.suggest
@@ -47,7 +46,6 @@ nav:
 
   - L1 Incubation:
       - Homepage: L1-Incubation/home.md
-      - Overview: L1-Incubation/index.md
       - Lessons:
           - Lesson 1: L1-Incubation/Lessons/lesson-1.md
           - Lesson 2: L1-Incubation/Lessons/lesson-2.md
