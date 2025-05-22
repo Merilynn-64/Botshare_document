@@ -70,13 +70,13 @@ nav:
         - Lesson 2: L1-Incubation/Lessons/lesson-2.md
         - Lesson 3: L1-Incubation/Lessons/lesson-3.md
        
-   - L2 Acceleration:
-      - Homepage: L2-Acceleration/home.md
-      - Lessons:
-        - Lesson 1: L2-Acceleration/Lessons/lesson-1.md
-        - Lesson 2: L2-Acceleration/Lessons/lesson-2.md
+ - L2 Acceleration:
+    - Homepage: L2-Acceleration/home.md
+    - Lessons:
+      - Lesson 1: L2-Acceleration/Lessons/lesson-1.md
+      - Lesson 2: L2-Acceleration/Lessons/lesson-2.md
       - About Us: about-us.md
-
+ 
   - L3 Mastery:
       - Homepage: L3-Mastery/home.md
       - Lessons:
