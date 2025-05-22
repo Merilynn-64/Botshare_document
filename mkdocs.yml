@@ -41,11 +41,7 @@ extra:
 nav:
   - Home:
       - Welcome: index.md
-      - Lessons:
-          - Lesson 1: L1-Incubation/Lessons/lesson-1.md
-          - Lesson 2: L1-Incubation/Lessons/lesson-2.md
-          - Lesson 3: L1-Incubation/Lessons/lesson-3.md
-
+      
       - Overview:
           - Our Solution: overview/our-solution.md
           - What You Will Learn: overview/what-you-will-learn.md
@@ -74,90 +70,25 @@ nav:
         - Learning Roadmap: Course Format/learning-roadmap.md
         - Venue: Course Format/venue-enrollment.md
       - Use Cases: use-cases.md
-  - Botshare Framework:
-    - L1 Incubation:
+      
+  - L1-Incubation:
       - Overview: level-1/level-1-incubation.md
-
-      - Industrial Automation:
-          - Overview: level-1/industrial-automation/index.md
-          - Smart Factory: level-1/industrial-automation/smart-factory.md
-          - Smart Warehousing: level-1/industrial-automation/smart-warehousing.md
-          - Smart Assembly Lines: level-1/industrial-automation/smart-assembly-lines.md
-          - Smart Materials: level-1/industrial-automation/smart-materials.md
-
-      - Smart Homes:
-          - Overview: level-1/smart-homes/index.md
-          - Smart Home: level-1/smart-homes/smart-home.md
-          - Smart Cleaning: level-1/smart-homes/smart-cleaning.md
-          - Smart Personal Assistant: level-1/smart-homes/smart-personal-assistant.md
-
-      - Agriculture & Sustainability:
-          - Overview: level-1/agriculture-sustainability/index.md
-          - Smart Farming: level-1/agriculture-sustainability/smart-farming.md
-          - Smart Forestry: level-1/agriculture-sustainability/smart-forestry.md
-          - Smart Ecology: level-1/agriculture-sustainability/smart-ecology.md
-          - Smart Energy: level-1/agriculture-sustainability/smart-energy.md
-
-      - Smart Cities:
-          - Overview: level-1/smart-cities/index.md
-          - Smart City: level-1/smart-cities/smart-city.md
-          - Smart Transportation: level-1/smart-cities/smart-transportation.md
-          - Smart Construction: level-1/smart-cities/smart-construction.md
-          - Smart Water Management: level-1/smart-cities/smart-water-management.md
-          - Smart Disaster Response: level-1/smart-cities/smart-disaster-response.md
-
-      - Defense & Aerospace:
-          - Overview: level-1/defense-aerospace/index.md
-          - Smart Security: level-1/defense-aerospace/smart-security.md
-          - Smart Defense: level-1/defense-aerospace/smart-defense.md
-          - Smart Communication: level-1/defense-aerospace/smart-communication.md
-          - Smart Laser System: level-1/defense-aerospace/smart-laser-system.md
-
-      - Healthcare:
-          - Overview:  level-1/healthcare/index.md
-          - Smart Medicine: level-1/healthcare/smart-medicine.md
-          - Smart Mental Health: level-1/healthcare/smart-mental-health.md
-          - Smart Prosthetics: level-1/healthcare/smart-prosthetics.md
-          - Smart Hospitals: level-1/healthcare/smart-hospitals.md
-
-      - Marine & Space:
-          - Overview: level-1/marine-space/index.md
-          - Smart Marine Drones: level-1/marine-space/smart-marine-drones.md
-          - Smart Mars Settlement: level-1/marine-space/smart-mars-settlement.md
-          - Smart Space Exploration: level-1/marine-space/smart-space-exploration.md
-
-      - Education & Research:
-          - Overview: level-1/education-research/index.md
-          - Smart Education: level-1/education-research/smart-education.md
-          - Smart Research Labs: level-1/education-research/smart-research-labs.md
-          - AI Scientific Innovation: level-1/education-research/ai-scientific-innovation.md
-
-      - Autonomous Tech:
-          - Overview:  level-1/autonomous-tech/index.md
-          - Smart Drones: level-1/autonomous-tech/smart-drones.md
-          - Smart Humanoids: level-1/autonomous-tech/smart-humanoids.md
-          - Smart Swarm Robotics: level-1/autonomous-tech/smart-swarm-robotics.md
-
-      - Mini Labs:
-          - overview:  level-1/mini-labs/index.md
-          - Biology Lab: level-1/mini-labs/arduino-based-lab/biology-lab.md
-          - Water & Air Lab: level-1/mini-labs/arduino-based-lab/water-air-lab.md
-          - Sound Lab: level-1/mini-labs/arduino-based-lab/sound-lab.md
-          - Magnetism Lab: level-1/mini-labs/arduino-based-lab/magnetism-lab.md
-          - Mechanics Lab: level-1/mini-labs/arduino-based-lab/mechanics-lab.md
-          - Optics Lab: level-1/mini-labs/arduino-based-lab/optics-lab.md
-          - Heat Lab: level-1/mini-labs/arduino-based-lab/heat-lab.md
-          - Electricity Lab: level-1/mini-labs/arduino-based-lab/electricity-lab.md
-          - School Science Kits: level-1/mini-labs/school-science-kits.md
-          - Digital Lab Equipment: level-1/mini-labs/digital-lab-equipment.md
-
-      - L2 - Acceleration: level-2-acceleration.md
-      - References: references.md
+      - Lessons:
+        - Lesson 1: L1-Incubation/Lessons/lesson-1.md
+        - Lesson 2: L1-Incubation/Lessons/lesson-2.md
+        - Lesson 3: L1-Incubation/Lessons/lesson-3.md
+       
+  - L2 - Acceleration: level-2-acceleration.md
+      - Lessons:
+        - Lesson 1: L1-Incubation/Lessons/lesson-1.md
+        - Lesson 2: L1-Incubation/Lessons/lesson-2.md
+        - Lesson 3: L1-Incubation/Lessons/lesson-3.md
+        
   - Company:
-      - Company Overview: company-overview.md
+      - About us: about-us.md
       - Contributing: contributing.md
       - FAQ: faq.md
-  - GitHub Repo: https://github.com/openAMRobot
+  
 
 markdown_extensions:
   - admonition
