@@ -47,14 +47,14 @@ nav:
       - About Us: about-us.md
       
   - L1-Incubation:
-      - Overview: level-1-incubation.md
+      - Overview: L1-Incubation/index.md
       - Lessons:
         - Lesson 1: L1-Incubation/Lessons/lesson-1.md
         - Lesson 2: L1-Incubation/Lessons/lesson-2.md
         - Lesson 3: L1-Incubation/Lessons/lesson-3.md
         
   - L2-Aceleration:
-      - Overview: level-2-acceleration.md
+      - Overview: L2-Acceleration/index.md
       - Lessons:
         - Lesson 1: L2-Acceleration/Lessons/lesson-1.md
         - Lesson 2: L2-Acceleration/Lessons/lesson-2.md
