@@ -39,17 +39,12 @@ extra:
       link: https://www.linkedin.com/company/botshare
 
 nav:
-- Home:
+  - Home:
       - Welcome: index.md
-      
       - Level-1: level-1.md
-
       - Level-2: level-2.md
-          
       - Level-3: level-3.md
-
       - About Us: about-us.md
-          
       
   - L1-Incubation:
       - Overview: level-1-incubation.md
@@ -61,9 +56,9 @@ nav:
   - L2-Aceleration:
       - Overview: level-2-acceleration.md
       - Lessons:
-        - Lesson 1: L1-Acceleration/Lessons/lesson-1.md
-        - Lesson 2: L1-Acceleration/Lessons/lesson-2.md
-        - Lesson 3: L1-Acceleration/Lessons/lesson-3.md
+        - Lesson 1: L2-Acceleration/Lessons/lesson-1.md
+        - Lesson 2: L2-Acceleration/Lessons/lesson-2.md
+        - Lesson 3: L2-Acceleration/Lessons/lesson-3.md
        
   - Company:
       - About us: about-us.md
