@@ -49,7 +49,7 @@ This program is designed for a wide range of participants, including:
 - **Build & Test Real-World Automation Projects** – Warehouse robotics, autonomous navigation.  
 - **Develop Business & Entrepreneurship Skills** – Commercializing robotics solutions, RaaS models.  
 - **Work on Industry-Specific Applications** – E-commerce fulfillment, last-mile delivery, AI logistics.
-![DIY kit: Boteon_education](assets/images/AMR_transparent.jpg)
+![DIY kit: Boteon_education](.../assets/images/AMR_transparent.jpg)
 
 ## Professional Open-Source Learning Environment  
 This program immerses students in the same development environment used by AI and robotics professionals.  
