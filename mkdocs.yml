@@ -30,6 +30,7 @@ theme:
 
 extra:
   generator: false
+  
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:info@botshare.ai
@@ -37,6 +38,7 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
+
   - More:
     - Shop: footer/shop.md
     - Corporate Training: footer/corporate-training.md
