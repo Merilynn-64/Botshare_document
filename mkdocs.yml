@@ -73,20 +73,6 @@ nav:
       - Contributing: contributing.md
       - FAQ: faq.md
   
-  - More:
-    - Shop: footer/shop.md
-    - Corporate Training: footer/corporate-training.md
-    - Custom Solutions (R&D): footer/custom-solutions.md
-    - Commercial Website: footer/commercial-site.md
-    - Cooperation: footer/cooperation.md
-    - Open-source & Donations: footer/open-source.md
-    - Licensing Info: footer/licensing.md
-    - Team: footer/team.md
-    - Career: footer/career.md
-    - Sustainability Policy: footer/sustainability.md
-    - Contact: footer/contact.md
-    - Brandbook (Press Materials): footer/brand.md
-    - Privacy Policy: footer/privacy.md
 
 
 markdown_extensions:
