@@ -1,3 +1,4 @@
+> [🏠 Home](index.md) / [⬅ Level 1](level-1.md) / **Level 2**
 # Level 2: Acceleration
 The course consists of four interconnected pillars, ensuring a balance between theoretical knowledge, practical implementation, and business development.
 
