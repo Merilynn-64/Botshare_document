@@ -30,21 +30,6 @@ theme:
 
 extra:
   generator: false
-  footer: |
-    [Online Shop](shop.md) ·
-    [Corporate Training](b2b.md) ·
-    [Custom R&D](custom-rnd.md) ·
-    [Commercial Website](https://botshare.solutions) ·
-    [Cooperation](cooperation.md) ·
-    [Open-source & Donations](donations.md) ·
-    [Licensing Info](licensing.md) ·
-    [Team](team.md) ·
-    [Career](career.md) ·
-    [Sustainability Policy](sustainability.md) ·
-    [Contacts](contact.md) ·
-    [Brandbook](brand.md) ·
-    [Privacy Policy](privacy.md)
-
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:info@botshare.ai
@@ -52,6 +37,21 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
+  - More:
+    - Shop: footer/shop.md
+    - Corporate Training: footer/corporate-training.md
+    - Custom Solutions (R&D): footer/custom-solutions.md
+    - Commercial Website: footer/commercial-site.md
+    - Cooperation: footer/cooperation.md
+    - Open-source & Donations: footer/open-source.md
+    - Licensing Info: footer/licensing.md
+    - Team: footer/team.md
+    - Career: footer/career.md
+    - Sustainability Policy: footer/sustainability.md
+    - Contact: footer/contact.md
+    - Brandbook (Press Materials): footer/brand.md
+    - Privacy Policy: footer/privacy.md
+
 
 nav:
   - Home:
