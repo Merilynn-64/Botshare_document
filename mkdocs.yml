@@ -30,6 +30,21 @@ theme:
 
 extra:
   generator: false
+  footer: |
+    [Online Shop](shop.md) ·
+    [Corporate Training](b2b.md) ·
+    [Custom R&D](custom-rnd.md) ·
+    [Commercial Website](https://botshare.solutions) ·
+    [Cooperation](cooperation.md) ·
+    [Open-source & Donations](donations.md) ·
+    [Licensing Info](licensing.md) ·
+    [Team](team.md) ·
+    [Career](career.md) ·
+    [Sustainability Policy](sustainability.md) ·
+    [Contacts](contact.md) ·
+    [Brandbook](brand.md) ·
+    [Privacy Policy](privacy.md)
+
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:info@botshare.ai
