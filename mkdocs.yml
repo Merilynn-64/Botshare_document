@@ -6,6 +6,8 @@ repo_name: "GitHub"
 theme:
   name: "material"
   custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.path
