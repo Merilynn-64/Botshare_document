@@ -3,20 +3,15 @@
   display: none !important;
 }
 
-/* Add a large always-down arrow */
-.md-nav__item--nested > .md-nav__link::after {
-  content: "▼"; /* Bigger down arrow */
-  float: right;
-  font-size: 1.2em;
-  padding-left: 0.5em;
+/* Add custom down arrow ONLY to collapsible menus */
+.md-nav__toggle::after {
+  content: "▼";
+  font-size: 1.1em;
+  margin-left: auto;
   color: inherit;
 }
-/* Hide arrow icons for non-collapsible items in the sidebar */
-.md-nav__item:not(:has(.md-nav__list)) > .md-nav__link::after {
-  display: none !important;
-}
 
-/* Optional: Make the arrow icon larger */
-.md-nav__link::after {
-  font-size: 1.1em !important;
+/* Optional: make arrows slightly larger globally */
+.md-nav__toggle {
+  font-size: 1.05em;
 }
