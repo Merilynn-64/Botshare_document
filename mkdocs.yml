@@ -45,13 +45,15 @@ extra:
 nav:
   - Home:
       - Welcome: index.md
-      - Level-1: level-1.md
-      - Level-2: level-2.md
-      - Level-3: level-3.md
+      - Getting Started: getting_started.md
+      - User Guide: user-guide.md
+      - Donation: donation.md
       - About Us: about-us.md
       
   - L1-Incubation:
       - Overview: L1-Incubation/index.md
+      - Learn by Industry:
+        - Mathematics Foundation: L1-Incubation/learn-by-industry/maths101.md
       - Lessons:
         - Lesson 1: L1-Incubation/Lessons/lesson-1.md
         - Lesson 2: L1-Incubation/Lessons/lesson-2.md
