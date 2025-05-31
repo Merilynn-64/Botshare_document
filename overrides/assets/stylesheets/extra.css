@@ -1,0 +1,7 @@
+.md-nav__item--nested > .md-nav__link::after {
+  content: "▾";
+  float: right;
+  font-size: 0.8em;
+  padding-left: 0.5em;
+  color: inherit;
+}
