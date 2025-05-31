@@ -1,28 +1,51 @@
 {% block footer %}
-  <div class="md-footer-custom" style="padding: 2em 1em; font-size: 0.95em; text-align: center;">
-    <div class="footer-links" style="display: flex; flex-direction: column; gap: 0.4em;">
-      <a href="/Botshare_document/footer/shop/">🛒 Shop</a>
-      <a href="/Botshare_document/footer/corporate-training/">🏢 Corporate Training</a>
-      <a href="/Botshare_document/footer/custom-solutions/">🔬 Custom R&D</a>
-      <a href="/Botshare_document/footer/cooperation/">🤝 Cooperation</a>
-      <a href="/Botshare_document/footer/open-source/">🌐 Open Source & Donations</a>
-      <a href="/Botshare_document/footer/team/">👥 Team</a>
-      <a href="/Botshare_document/footer/career/">💼 Career</a>
-      <a href="/Botshare_document/footer/privacy/">🔒 Privacy Policy</a>
-    </div>
+  <div class="md-footer-custom" style="padding: 2em 1em; font-size: 0.95em; text-align: center; border-top: 1px solid var(--md-default-fg-color--light); background-color: var(--md-default-bg-color); color: var(--md-default-fg-color);">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2em; align-items: flex-start; font-size: 0.9em;">
 
-    <div class="footer-social" style="margin-top: 1.5em;">
-      <a href="mailto:info@botshare.ai" title="Email" style="margin: 0 10px;">
-        <i class="fa fa-envelope"></i>
-      </a>
-      <a href="https://github.com/openAMRobot" title="GitHub" style="margin: 0 10px;">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="https://www.linkedin.com/company/botshare" title="LinkedIn" style="margin: 0 10px;">
-        <i class="fab fa-linkedin"></i>
-      </a>
+      <div>
+        <a href="/Botshare_document/footer/career/" style="font-weight: bold; color: var(--md-typeset-a-color);">💼 Career</a>
+      </div>
+
+      <div>
+        <span style="font-weight: bold;">📞 Contact</span><br>
+        <div style="margin-top: 0.3em; font-size: 0.85em; line-height: 1.6;">
+          📍 luxemburger Str. 10, 13353 Berlin<br>
+          ✉️ <a href="mailto:info@botshare.ai" style="color: var(--md-typeset-a-color);">info@botshare.ai</a><br>
+          ☎️ +4915168864129
+        </div>
+      </div>
+
+      <div>
+        <a href="/Botshare_document/footer/shop/" style="color: var(--md-typeset-a-color);">🛒 Shop</a><br>
+        <a href="/Botshare_document/footer/cooperation/" style="color: var(--md-typeset-a-color);">🤝 Cooperation</a><br>
+        <a href="/Botshare_document/footer/open-source/" style="color: var(--md-typeset-a-color);">🌐 Open Source</a>
+      </div>
+
+      <div>
+        <a href="/Botshare_document/footer/privacy/" style="color: var(--md-typeset-a-color);">🔒 Privacy Policy</a><br>
+        <a href="/Botshare_document/footer/licensing/" style="color: var(--md-typeset-a-color);">📄 Licensing</a><br>
+        <a href="/Botshare_document/footer/team/" style="color: var(--md-typeset-a-color);">👥 Team</a>
+      </div>
+
+      <div style="margin-top: 1em; flex-basis: 100%; text-align: center;">
+        <a href="https://github.com/openAMRobot" title="GitHub" style="margin: 0 10px; color: var(--md-typeset-a-color);"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/botshare" title="LinkedIn" style="margin: 0 10px; color: var(--md-typeset-a-color);"><i class="fab fa-linkedin"></i></a>
+        <a href="mailto:info@botshare.ai" title="Email" style="margin: 0 10px; color: var(--md-typeset-a-color);"><i class="fas fa-envelope"></i></a>
+      </div>
+
+      <div style="margin-top: 1em; flex-basis: 100%; font-size: 0.8em; color: var(--md-typeset-color);">
+        &copy; <span id="year"></span> Botshare. All rights reserved.
+      </div>
+
     </div>
   </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      document.getElementById("year").textContent = new Date().getFullYear();
+    });
+  </script>
 {% endblock %}
+
 
 
