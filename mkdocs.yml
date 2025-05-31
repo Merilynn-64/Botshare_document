@@ -52,8 +52,11 @@ nav:
       
   - Beginner-level:
       - Overview: Beginner-level/index.md
+      - Learn by Subject: 
+        - Mathematics Foundation: Beginner-level/learn-by-subject/maths-101.md
+        - Physics: Beginner-level/learn-by-subject/physics.md
       - Learn by Industry:
-        - Mathematics Foundation: Beginner-level/learn-by-industry/maths-101.md
+        - Mathematics Foundation: Beginner-level/learn-by-industry/smart-house.md
       - Lessons:
         - Lesson 1: Beginner-level/Lessons/lesson-1.md
         - Lesson 2: Beginner-level/Lessons/lesson-2.md
