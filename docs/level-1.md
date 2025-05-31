@@ -125,7 +125,6 @@ These kits include sensors for biosignals, physical quantities, magnetism, sound
 - USB Digital Microscope  
 - Digital Sensors for Gas, Light, Sound, Magnetic Fields, Motion, pH, Humidity, and Temperature
 
-<a href="../level-2" target="_blank" style="display:inline-block; padding:10px 15px; background-color:#007bff; color:#ffffff; text-decoration:none; border-radius:5px;">➡ Check on the next level: Level 2</a>
 
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
