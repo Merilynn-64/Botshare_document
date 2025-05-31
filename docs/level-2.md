@@ -136,7 +136,6 @@ These advanced projects provide additional hands-on experience and can be offere
 - Phased Array Ground Penetrating Radar (GPR) for landmine detection  
 - AI-driven anomaly detection for subsurface mapping
 
-<a href="../level-1" target="_blank" style="display:inline-block; padding:10px 15px; background-color:#007bff; color:#ffffff; text-decoration:none; border-radius:5px;">➡ Check on the previous level: Level 1</a>
 
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
