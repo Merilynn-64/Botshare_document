@@ -84,4 +84,4 @@ nav:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.attr_list
+  - attr_list
