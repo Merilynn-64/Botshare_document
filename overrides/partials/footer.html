@@ -1,51 +1,57 @@
 {% block footer %}
-  <div class="md-footer-custom" style="padding: 2em 1em; font-size: 0.95em; text-align: center; border-top: 1px solid var(--md-default-fg-color--light); background-color: var(--md-default-bg-color); color: var(--md-default-fg-color);">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2em; align-items: flex-start; font-size: 0.9em;">
+  <div class="md-footer-custom" style="padding: 2.5em 1em; background-color: #121212; color: #f0f0f0; font-size: 1.1em; border-top: 1px solid #444;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 3em; align-items: flex-start; text-align: left;">
 
+      <!-- Career -->
       <div>
-        <a href="/Botshare_document/footer/career/" style="font-weight: bold; color: var(--md-typeset-a-color);">💼 Career</a>
+        <a href="/Botshare_document/footer/career/" style="font-weight: bold; color: #ffffff; text-decoration: none;">💼 Career</a>
       </div>
 
+      <!-- Contact -->
       <div>
-        <span style="font-weight: bold;">📞 Contact</span><br>
-        <div style="margin-top: 0.3em; font-size: 0.85em; line-height: 1.6;">
+        <div style="font-weight: bold;">📞 Contact</div>
+        <div style="margin-top: 0.4em; font-size: 1em; line-height: 1.8;">
           📍 luxemburger Str. 10, 13353 Berlin<br>
-          ✉️ <a href="mailto:info@botshare.ai" style="color: var(--md-typeset-a-color);">info@botshare.ai</a><br>
+          ✉️ <a href="mailto:info@botshare.ai" style="color: #87cefa;">info@botshare.ai</a><br>
           ☎️ +4915168864129
         </div>
       </div>
 
+      <!-- Quick Links 1 -->
       <div>
-        <a href="/Botshare_document/footer/shop/" style="color: var(--md-typeset-a-color);">🛒 Shop</a><br>
-        <a href="/Botshare_document/footer/cooperation/" style="color: var(--md-typeset-a-color);">🤝 Cooperation</a><br>
-        <a href="/Botshare_document/footer/open-source/" style="color: var(--md-typeset-a-color);">🌐 Open Source</a>
+        <a href="/Botshare_document/footer/shop/" style="color: #ffffff;">🛒 Shop</a><br>
+        <a href="/Botshare_document/footer/cooperation/" style="color: #ffffff;">🤝 Cooperation</a><br>
+        <a href="/Botshare_document/footer/open-source/" style="color: #ffffff;">🌐 Open Source</a>
       </div>
 
+      <!-- Quick Links 2 -->
       <div>
-        <a href="/Botshare_document/footer/privacy/" style="color: var(--md-typeset-a-color);">🔒 Privacy Policy</a><br>
-        <a href="/Botshare_document/footer/licensing/" style="color: var(--md-typeset-a-color);">📄 Licensing</a><br>
-        <a href="/Botshare_document/footer/team/" style="color: var(--md-typeset-a-color);">👥 Team</a>
+        <a href="/Botshare_document/footer/privacy/" style="color: #ffffff;">🔒 Privacy Policy</a><br>
+        <a href="/Botshare_document/footer/licensing/" style="color: #ffffff;">📄 Licensing</a><br>
+        <a href="/Botshare_document/footer/team/" style="color: #ffffff;">👥 Team</a>
       </div>
 
+      <!-- Social Links -->
       <div style="margin-top: 1em; flex-basis: 100%; text-align: center;">
-        <a href="https://github.com/openAMRobot" title="GitHub" style="margin: 0 10px; color: var(--md-typeset-a-color);"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/company/botshare" title="LinkedIn" style="margin: 0 10px; color: var(--md-typeset-a-color);"><i class="fab fa-linkedin"></i></a>
-        <a href="mailto:info@botshare.ai" title="Email" style="margin: 0 10px; color: var(--md-typeset-a-color);"><i class="fas fa-envelope"></i></a>
+        <a href="https://github.com/openAMRobot" title="GitHub" style="margin: 0 12px; font-size: 1.5em; color: #f0f0f0;"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/botshare" title="LinkedIn" style="margin: 0 12px; font-size: 1.5em; color: #f0f0f0;"><i class="fab fa-linkedin"></i></a>
+        <a href="mailto:info@botshare.ai" title="Email" style="margin: 0 12px; font-size: 1.5em; color: #f0f0f0;"><i class="fas fa-envelope"></i></a>
       </div>
 
-      <div style="margin-top: 1em; flex-basis: 100%; font-size: 0.8em; color: var(--md-typeset-color);">
+      <!-- Copyright -->
+      <div style="margin-top: 1em; flex-basis: 100%; text-align: center; font-size: 0.95em; color: #bbb;">
         &copy; <span id="year"></span> Botshare. All rights reserved.
       </div>
-
     </div>
   </div>
 
   <script>
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function () {
       document.getElementById("year").textContent = new Date().getFullYear();
     });
   </script>
 {% endblock %}
+
 
 
 
