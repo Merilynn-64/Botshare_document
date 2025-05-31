@@ -1,7 +1,13 @@
+/* Hide default triangle icons */
+.md-nav__item--nested > .md-nav__link > .md-nav__icon {
+  display: none !important;
+}
+
+/* Add a large always-down arrow */
 .md-nav__item--nested > .md-nav__link::after {
-  content: "▾";
+  content: "▼"; /* Bigger down arrow */
   float: right;
-  font-size: 0.8em;
+  font-size: 1.2em;
   padding-left: 0.5em;
   color: inherit;
 }
