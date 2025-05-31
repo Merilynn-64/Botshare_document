@@ -50,28 +50,28 @@ nav:
       - Donation: donation.md
       - About Us: about-us.md
       
-  - L1-Incubation:
-      - Overview: L1-Incubation/index.md
+  - Beginner-level:
+      - Overview: Beginner-level/index.md
       - Learn by Industry:
-        - Mathematics Foundation: L1-Incubation/learn-by-industry/maths-101.md
+        - Mathematics Foundation: Beginner-level/learn-by-industry/maths-101.md
       - Lessons:
-        - Lesson 1: L1-Incubation/Lessons/lesson-1.md
-        - Lesson 2: L1-Incubation/Lessons/lesson-2.md
-        - Lesson 3: L1-Incubation/Lessons/lesson-3.md
+        - Lesson 1: Beginner-level/Lessons/lesson-1.md
+        - Lesson 2: Beginner-level/Lessons/lesson-2.md
+        - Lesson 3: Beginner-level/Lessons/lesson-3.md
       
-  - L2-Acceleration:
-      - Overview: L2-Acceleration/index.md
+  - Intermediate-level:
+      - Overview: Intermediate-level/index.md
       - Lessons:
-        - Lesson 1: L2-Acceleration/Lessons/lesson-1.md
-        - Lesson 2: L2-Acceleration/Lessons/lesson-2.md
-        - Lesson 3: L2-Acceleration/Lessons/lesson-3.md
+        - Lesson 1: Intermediate-level/Lessons/lesson-1.md
+        - Lesson 2: Intermediate-level/Lessons/lesson-2.md
+        - Lesson 3: Intermediate-level/Lessons/lesson-3.md
         
-  - L3-Mastery:
-      - Overview: L3-Mastery/index.md
+  - Advanced-level:
+      - Overview: Advanced-level/index.md
       - Lessons:
-        - Lesson 1: L3-Mastery/Lessons/lesson-1.md
-        - Lesson 2: L3-Mastery/Lessons/lesson-2.md
-        - Lesson 3: L3-Mastery/Lessons/lesson-3.md     
+        - Lesson 1: Advanced-level/Lessons/lesson-1.md
+        - Lesson 2: Advanced-level/Lessons/lesson-2.md
+        - Lesson 3: Advanced-level/Lessons/lesson-3.md     
         
   - Company:
       - About us: about-us.md
