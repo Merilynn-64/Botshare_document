@@ -30,6 +30,9 @@ theme:
         name: Switch to light mode
   logo: assets/logo.jpg
   favicon: assets/favicon.png 
+  
+extra_css:
+  - assets/stylesheets/extra.css 
 
 extra:
   generator: false
