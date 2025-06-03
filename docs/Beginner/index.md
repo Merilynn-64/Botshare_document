@@ -1,6 +1,8 @@
 > [Home](../index.md) / **Beginner**
-## Welcome to the Beginner track.  
+# Beginner level
 
+Welcome to the beginner track.  
 Please choose a lesson from the sidebar to get started.
+
 
 
