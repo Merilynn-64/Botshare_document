@@ -1,6 +1,6 @@
-> [Home](../index.md) / **L1 Incubation**
-# L1 Incubation
+> [Home](../index.md) / **Advanced**
+# Advanced level
 
-Welcome to the L1 Incubation track.  
+Welcome to the Advanced track.  
 Please choose a lesson from the sidebar to get started.
 
