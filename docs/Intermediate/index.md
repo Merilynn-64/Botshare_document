@@ -1,5 +1,5 @@
-> [Home](../index.md) / **L3 Mastery**
-# L3 Mastery
+> [Home](../index.md) / **Intermediate**
+# Intermediate
 
-Welcome to the L1 Incubation track.  
+Welcome to the Intermediate track.  
 Please choose a lesson from the sidebar to get started.
