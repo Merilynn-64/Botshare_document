@@ -50,7 +50,7 @@ nav:
       - Donation: donation.md
       - About Us: about-us.md
       
-  - Beginner-level:
+  - Beginner:
       - Overview: Beginner-level/index.md
       - Learn by Subject: 
         - Mathematics Foundation: Beginner-level/learn-by-subject/maths-101.md
@@ -62,14 +62,14 @@ nav:
         - Lesson 2: Beginner-level/Lessons/lesson-2.md
         - Lesson 3: Beginner-level/Lessons/lesson-3.md
       
-  - Intermediate-level:
+  - Intermediate:
       - Overview: Intermediate-level/index.md
       - Lessons:
         - Lesson 1: Intermediate-level/Lessons/lesson-1.md
         - Lesson 2: Intermediate-level/Lessons/lesson-2.md
         - Lesson 3: Intermediate-level/Lessons/lesson-3.md
         
-  - Advanced-level:
+  - Advanced:
       - Overview: Advanced-level/index.md
       - Lessons:
         - Lesson 1: Advanced-level/Lessons/lesson-1.md
