@@ -89,10 +89,9 @@ nav:
   - Advanced:
       - Overview: Advanced/index.md
       - Learn by Subject:
-        - Business Fundamentals: Advanced/learn-by-subject/business-fundamentals.md
-        - Innovation and Entrepreneurship: Advanced/learn-by-subject/innovation-and-entrepreneurship.md
-        - Marketing and Sales: Advanced/learn-by-subject/marketing-and-sales.md
-        - Product Management: Advanced/learn-by-subject/product-management.md
+        - Decision Making: Advanced/learn-by-subject/decision-making.md
+        - Machine Learning: Advanced/learn-by-subject/machine-learning.md
+        - Probability & Statistics: Advanced/learn-by-subject/probability-and-statistics.md
       - Lessons:
         - Lesson 1: Advanced/Lessons/lesson-1.md
         - Lesson 2: Advanced/Lessons/lesson-2.md
