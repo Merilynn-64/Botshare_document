@@ -1,56 +1,50 @@
 {% block footer %}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  <div class="md-footer-custom" style="padding: 2.5em 1em; background-color: #121212; color: #f0f0f0; font-size: 1.1em; border-top: 1px solid #444;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 3em; align-items: flex-start; text-align: left;">
+  <footer style="background-color: #000; color: #fff; padding: 2rem 1rem; font-family: sans-serif; font-size: 0.9em;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; margin: auto;">
+    
+    <!-- Contact -->
+    <div style="flex: 1 1 250px; margin-bottom: 1.5rem;">
+      <h4 style="color: #fff; font-size: 1em;">CONTACT US</h4>
+      <p style="margin: 0.5em 0;">Botshare - sharing robotics</p>
+      <p style="margin: 0.5em 0;">🏠 HQ Europe: Poland, Lublin, ul. Hugo Kollataja, 3/15, 20-006</p>
+      <p style="margin: 0.5em 0;">🏠 R&D Fablab: Germany, Berlin, Luxemburger Str. 10, 13353</p>
+      <p style="margin: 0.5em 0;">📞 Phone Number: +4915168864129</p>
+      <p style="margin: 0.5em 0;">✉️ Email: alex@botshare.ai</p>
+    </div>
 
-      <!-- Career -->
-      <div>
-        <a href="/Botshare_document/footer/career/" style="font-weight: bold; color: #ffffff; text-decoration: none;">💼 Career</a>
-      </div>
+    <!-- Categories -->
+    <div style="flex: 1 1 150px; margin-bottom: 1.5rem;">
+      <h4 style="color: #fff; font-size: 1em;">CATEGORIES</h4>
+      <p><a href="https://botshare.ai" target="_blank" style="color: #ccc; text-decoration: none;">Shop</a></p>
+      <p>Cooperation</p>
+      <p>Open Source</p>
+      <p>Career</p>
+    </div>
 
-      <!-- Contact -->
-      <div>
-        <div style="font-weight: bold;">📞 Contact</div>
-        <div style="margin-top: 0.4em; font-size: 1.25em; line-height: 1.8;">
-          📍 Luxemburger Str. 10, 13353 Berlin<br>
-          ✉️ <a href="mailto:info@botshare.ai" style="color: #87cefa;">info@botshare.ai</a><br>
-          ☎️ +4915168864129
-        </div>
-      </div>
+    <!-- Support -->
+    <div style="flex: 1 1 150px; margin-bottom: 1.5rem;">
+      <h4 style="color: #fff; font-size: 1em;">SUPPORT</h4>
+      <p>Your personal manager</p>
+      <p>Case study</p>
+      <p>Blog</p>
+    </div>
 
-      <!-- Quick Links 1 -->
-      <div>
-        <a href="/Botshare_document/footer/shop/" style="color: #ffffff;">🛒 Shop</a><br>
-        <a href="/Botshare_document/footer/cooperation/" style="color: #ffffff;">🤝 Cooperation</a><br>
-        <a href="/Botshare_document/footer/open-source/" style="color: #ffffff;">🌐 Open Source</a>
-      </div>
-
-      <!-- Quick Links 2 -->
-      <div>
-        <a href="/Botshare_document/footer/privacy/" style="color: #ffffff;">🔒 Privacy Policy</a><br>
-        <a href="/Botshare_document/footer/licensing/" style="color: #ffffff;">📄 Licensing</a><br>
-        <a href="/Botshare_document/footer/team/" style="color: #ffffff;">👥 Team</a>
-      </div>
-
-      <!-- Social Links -->
-      <div style="margin-top: 1em; flex-basis: 100%; text-align: center;">
-        <a href="https://github.com/openAMRobot" title="GitHub" style="margin: 0 12px; font-size: 1.5em; color: #f0f0f0;"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/company/botshare" title="LinkedIn" style="margin: 0 12px; font-size: 1.5em; color: #f0f0f0;"><i class="fab fa-linkedin"></i></a>
-        <a href="mailto:info@botshare.ai" title="Email" style="margin: 0 12px; font-size: 1.5em; color: #f0f0f0;"><i class="fas fa-envelope"></i></a>
-      </div>
-
-      <!-- Copyright -->
-      <div style="margin-top: 1em; flex-basis: 100%; text-align: center; font-size: 0.95em; color: #bbb;">
-        &copy; <span id="year"></span> Botshare. All rights reserved.
-      </div>
+    <!-- Top Link -->
+    <div style="flex: 1 1 150px; margin-bottom: 1.5rem;">
+      <h4 style="color: #fff; font-size: 1em;">TOP LINK</h4>
+      <p>Privacy Policy</p>
+      <p>Licensing</p>
+      <p>Team</p>
     </div>
   </div>
 
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      document.getElementById("year").textContent = new Date().getFullYear();
-    });
-  </script>
+  <div style="text-align: center; border-top: 1px solid #333; margin-top: 2rem; padding-top: 1rem; font-size: 0.8em;">
+    <p>© 2025 Botshare – sharing robotics</p>
+    <p>Powered by MkDocs + Material</p>
+  </div>
+</footer>
+
 {% endblock %}
 
 
