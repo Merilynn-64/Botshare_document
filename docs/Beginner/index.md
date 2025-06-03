@@ -1,6 +1,6 @@
-[Home](../index.md)
+[Home](../index.md)**Beginner**
 
-## Overview 
+## Welcome to the Advanced track.  
+Please choose a lesson from the sidebar to get started.
 
-This level is for beginners
 
