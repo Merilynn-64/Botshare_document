@@ -51,31 +51,61 @@ nav:
       - About Us: about-us.md
       
   - Beginner:
-      - Overview: Beginner-level/index.md
+      - Overview: Beginner/index.md
       - Learn by Subject: 
-        - Mathematics Foundation: Beginner-level/learn-by-subject/maths-101.md
-        - Physics: Beginner-level/learn-by-subject/physics.md
+        - Analog Electronics: Beginner/learn-by-subject/analog-electronics.md
+        - Biosignal Processing: Beginner/learn-by-subject/biosignal-processing.md
+        - Digital Electronics: Beginner/learn-by-subject/digital-electronics.md
+        - Maths 101: Beginner/learn-by-subject/maths-101.md
+        - Object-Oriented Design: Beginner/learn-by-subject/object-oriented-design.md
+        - Physics: Beginner/learn-by-subject/physics.md
+        - Programming Basics: Beginner/learn-by-subject/programming-basics.md
+        - Version Control: Beginner/learn-by-subject/version-control.md
       - Learn by Industry:
-        - Mathematics Foundation: Beginner-level/learn-by-industry/smart-house.md
+        - Smart House: Beginner/learn-by-industry/smart-house.md
       - Lessons:
-        - Lesson 1: Beginner-level/Lessons/lesson-1.md
-        - Lesson 2: Beginner-level/Lessons/lesson-2.md
-        - Lesson 3: Beginner-level/Lessons/lesson-3.md
+        - Lesson 1: Beginner/Lessons/lesson-1.md
+        - Lesson 2: Beginner/Lessons/lesson-2.md
+        - Lesson 3: Beginner/Lessons/lesson-3.md
       
   - Intermediate:
-      - Overview: Intermediate-level/index.md
+      - Overview: Intermediate/index.md
+      - Learn by Subject: 
+        - Algorithms: Intermediate/learn-by-subject/algorithms.md
+        - Communication Protocols: Intermediate/learn-by-subject/communication-protocols.md
+        - Computer Vision: Intermediate/learn-by-subject/computer-vision.md
+        - Control System: Intermediate/learn-by-subject/control-system.md
+        - Embedded System: Intermediate/learn-by-subject/embedded-system.md
+        - Mechatronics: Intermediate/learn-by-subject/mechatronics.md
+        - Power and Battery: Intermediate/learn-by-subject/power-and-battery.md
+        - Prototyping and Fabrication: Intermediate/learn-by-subject/prototyping-and-fabrication.md
+        - Robotics Middleware: Intermediate/learn-by-subject/robotics-middleware.md
+        - Sensors and Actuators: Intermediate/learn-by-subject/sensors-and-actuators.md
       - Lessons:
-        - Lesson 1: Intermediate-level/Lessons/lesson-1.md
-        - Lesson 2: Intermediate-level/Lessons/lesson-2.md
-        - Lesson 3: Intermediate-level/Lessons/lesson-3.md
+        - Lesson 1: Intermediate/Lessons/lesson-1.md
+        - Lesson 2: Intermediate/Lessons/lesson-2.md
+        - Lesson 3: Intermediate/Lessons/lesson-3.md
         
   - Advanced:
-      - Overview: Advanced-level/index.md
+      - Overview: Advanced/index.md
+      - Learn by Subject:
+        - Business Fundamentals: Advanced/learn-by-subject/business-fundamentals.md
+        - Innovation and Entrepreneurship: Advanced/learn-by-subject/innovation-and-entrepreneurship.md
+        - Marketing and Sales: Advanced/learn-by-subject/marketing-and-sales.md
+        - Product Management: Advanced/learn-by-subject/product-management.md
       - Lessons:
-        - Lesson 1: Advanced-level/Lessons/lesson-1.md
-        - Lesson 2: Advanced-level/Lessons/lesson-2.md
-        - Lesson 3: Advanced-level/Lessons/lesson-3.md     
-        
+        - Lesson 1: Advanced/Lessons/lesson-1.md
+        - Lesson 2: Advanced/Lessons/lesson-2.md
+        - Lesson 3: Advanced/Lessons/lesson-3.md     
+
+  - Tech-to-market:
+      - Overview: Tech-to-market/index.md
+      - Learn by Subject: 
+        - Business Fundamentals: Tech-to-market/learn-by-subject/business-fundamentals.md
+        - Innovation and Entrepreneurship: Tech-to-market/learn-by-subject/innovation-and-entrepreneurship.md
+        - Marketing and Sales: Tech-to-market/learn-by-subject/marketing-and-sales.md
+        - Product Management: Tech-to-market/learn-by-subject/product-management.md
+           
   - Company:
       - About us: about-us.md
       - Contributing: contributing.md
