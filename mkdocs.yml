@@ -64,9 +64,107 @@ nav:
       - Learn by Industry:
         - Smart House: Beginner/learn-by-industry/smart-house.md
       - Lessons:
-        - Lesson 1: Beginner/Lessons/lesson-1.md
-        - Lesson 2: Beginner/Lessons/lesson-2.md
-        - Lesson 3: Beginner/Lessons/lesson-3.md
+        - Lesson 1: Beginner/Lessons/lesson_1.md
+        - Lesson 2: Beginner/Lessons/lesson_2.md
+        - Lesson 3: Beginner/Lessons/lesson_3.md
+        - Lesson 4: Beginner/Lessons/lesson_4.md
+        - Lesson 5: Beginner/Lessons/lesson_5.md
+        - Lesson 6: Beginner/Lessons/lesson_6.md
+        - Lesson 7: Beginner/Lessons/lesson_7.md
+        - Lesson 8: Beginner/Lessons/lesson_8.md
+        - Lesson 9: Beginner/Lessons/lesson_9.md
+        - Lesson 10: Beginner/Lessons/lesson_10.md
+        - Lesson 11: Beginner/Lessons/lesson_11.md
+        - Lesson 12: Beginner/Lessons/lesson_12.md
+        - Lesson 13: Beginner/Lessons/lesson_13.md
+        - Lesson 14: Beginner/Lessons/lesson_14.md
+        - Lesson 15: Beginner/Lessons/lesson_15.md
+        - Lesson 16: Beginner/Lessons/lesson_16.md
+        - Lesson 17: Beginner/Lessons/lesson_17.md
+        - Lesson 18: Beginner/Lessons/lesson_18.md
+        - Lesson 19: Beginner/Lessons/lesson_19.md
+        - Lesson 20: Beginner/Lessons/lesson_20.md
+        - Lesson 21: Beginner/Lessons/lesson_21.md
+        - Lesson 22: Beginner/Lessons/lesson_22.md
+        - Lesson 23: Beginner/Lessons/lesson_23.md
+        - Lesson 24: Beginner/Lessons/lesson_24.md
+        - Lesson 25: Beginner/Lessons/lesson_25.md
+        - Lesson 26: Beginner/Lessons/lesson_26.md
+        - Lesson 27: Beginner/Lessons/lesson_27.md
+        - Lesson 28: Beginner/Lessons/lesson_28.md
+        - Lesson 29: Beginner/Lessons/lesson_29.md
+        - Lesson 30: Beginner/Lessons/lesson_30.md
+        - Lesson 31: Beginner/Lessons/lesson_31.md
+        - Lesson 32: Beginner/Lessons/lesson_32.md
+        - Lesson 33: Beginner/Lessons/lesson_33.md
+        - Lesson 34: Beginner/Lessons/lesson_34.md
+        - Lesson 35: Beginner/Lessons/lesson_35.md
+        - Lesson 36: Beginner/Lessons/lesson_36.md
+        - Lesson 37: Beginner/Lessons/lesson_37.md
+        - Lesson 38: Beginner/Lessons/lesson_38.md
+        - Lesson 39: Beginner/Lessons/lesson_39.md
+        - Lesson 40: Beginner/Lessons/lesson_40.md
+        - Lesson 41: Beginner/Lessons/lesson_41.md
+        - Lesson 42: Beginner/Lessons/lesson_42.md
+        - Lesson 43: Beginner/Lessons/lesson_43.md
+        - Lesson 44: Beginner/Lessons/lesson_44.md
+        - Lesson 45: Beginner/Lessons/lesson_45.md
+        - Lesson 46: Beginner/Lessons/lesson_46.md
+        - Lesson 47: Beginner/Lessons/lesson_47.md
+        - Lesson 48: Beginner/Lessons/lesson_48.md
+        - Lesson 49: Beginner/Lessons/lesson_49.md
+        - Lesson 50: Beginner/Lessons/lesson_50.md
+        - Lesson 51: Beginner/Lessons/lesson_51.md
+        - Lesson 52: Beginner/Lessons/lesson_52.md
+        - Lesson 53: Beginner/Lessons/lesson_53.md
+        - Lesson 54: Beginner/Lessons/lesson_54.md
+        - Lesson 55: Beginner/Lessons/lesson_55.md
+        - Lesson 56: Beginner/Lessons/lesson_56.md
+        - Lesson 57: Beginner/Lessons/lesson_57.md
+        - Lesson 58: Beginner/Lessons/lesson_58.md
+        - Lesson 59: Beginner/Lessons/lesson_59.md
+        - Lesson 60: Beginner/Lessons/lesson_60.md
+        - Lesson 61: Beginner/Lessons/lesson_61.md
+        - Lesson 62: Beginner/Lessons/lesson_62.md
+        - Lesson 63: Beginner/Lessons/lesson_63.md
+        - Lesson 64: Beginner/Lessons/lesson_64.md
+        - Lesson 65: Beginner/Lessons/lesson_65.md
+        - Lesson 66: Beginner/Lessons/lesson_66.md
+        - Lesson 67: Beginner/Lessons/lesson_67.md
+        - Lesson 68: Beginner/Lessons/lesson_68.md
+        - Lesson 69: Beginner/Lessons/lesson_69.md
+        - Lesson 70: Beginner/Lessons/lesson_70.md
+        - Lesson 71: Beginner/Lessons/lesson_71.md
+        - Lesson 72: Beginner/Lessons/lesson_72.md
+        - Lesson 73: Beginner/Lessons/lesson_73.md
+        - Lesson 74: Beginner/Lessons/lesson_74.md
+        - Lesson 75: Beginner/Lessons/lesson_75.md
+        - Lesson 76: Beginner/Lessons/lesson_76.md
+        - Lesson 77: Beginner/Lessons/lesson_77.md
+        - Lesson 78: Beginner/Lessons/lesson_78.md
+        - Lesson 79: Beginner/Lessons/lesson_79.md
+        - Lesson 80: Beginner/Lessons/lesson_80.md
+        - Lesson 81: Beginner/Lessons/lesson_81.md
+        - Lesson 82: Beginner/Lessons/lesson_82.md
+        - Lesson 83: Beginner/Lessons/lesson_83.md
+        - Lesson 84: Beginner/Lessons/lesson_84.md
+        - Lesson 85: Beginner/Lessons/lesson_85.md
+        - Lesson 86: Beginner/Lessons/lesson_86.md
+        - Lesson 87: Beginner/Lessons/lesson_87.md
+        - Lesson 88: Beginner/Lessons/lesson_88.md
+        - Lesson 89: Beginner/Lessons/lesson_89.md
+        - Lesson 90: Beginner/Lessons/lesson_90.md
+        - Lesson 91: Beginner/Lessons/lesson_91.md
+        - Lesson 92: Beginner/Lessons/lesson_92.md
+        - Lesson 93: Beginner/Lessons/lesson_93.md
+        - Lesson 94: Beginner/Lessons/lesson_94.md
+        - Lesson 95: Beginner/Lessons/lesson_95.md
+        - Lesson 96: Beginner/Lessons/lesson_96.md
+        - Lesson 97: Beginner/Lessons/lesson_97.md
+        - Lesson 98: Beginner/Lessons/lesson_98.md
+        - Lesson 99: Beginner/Lessons/lesson_99.md
+        - Lesson 100: Beginner/Lessons/lesson_100.md
+
       
   - Intermediate:
       - Overview: Intermediate/index.md
@@ -85,6 +183,7 @@ nav:
         - Lesson 1: Intermediate/Lessons/lesson-1.md
         - Lesson 2: Intermediate/Lessons/lesson-2.md
         - Lesson 3: Intermediate/Lessons/lesson-3.md
+              
         
   - Advanced:
       - Overview: Advanced/index.md
