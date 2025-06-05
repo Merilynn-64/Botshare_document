@@ -28,7 +28,7 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
-  logo: assets/Botshare_logo.png
+  logo: assets/botshare_logo.png
   favicon: assets/favicon.png 
   
 extra:
