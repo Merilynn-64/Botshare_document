@@ -8,5 +8,5 @@ title: Lesson 2
 Content coming soon...
 
 <div style="margin-top: 20px;">
-<a href="/docs/intermediate/Lessons/lesson_1.html" style="margin-right: 10px;">⬅ Previous</a><a href="/docs/intermediate/Lessons/lesson_3.html">Next ➡</a>
+<a href="/docs/Intermediate/Lessons/lesson_1.md" style="margin-right: 10px;">⬅ Previous</a><a href="/docs/Intermediate/Lessons/lesson_3.md">Next ➡</a>
 </div>
