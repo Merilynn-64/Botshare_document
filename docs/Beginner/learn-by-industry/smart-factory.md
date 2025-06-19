@@ -10,6 +10,8 @@ In this lesson, students explore the core concepts of **industrial automation** 
 
 The project focuses on **detecting, identifying, and sorting objects automatically** based on color or shape, combining robotics, computer vision, and smart control systems.
 
+![Smart Factory Overview](/Botshare_document/assets/manufacturing-arm.png)
+
 ---
 
 ## Key Concepts Covered
