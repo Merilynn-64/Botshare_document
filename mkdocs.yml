@@ -182,6 +182,11 @@ nav:
         - Prototyping and Fabrication: Intermediate/learn-by-subject/prototyping-and-fabrication.md
         - Robotics Middleware: Intermediate/learn-by-subject/robotics-middleware.md
         - Sensors and Actuators: Intermediate/learn-by-subject/sensors-and-actuators.md
+      - Learn by Industry:
+        - Human Machine Interface: Intermediate/learn-by-industry/human-machine-interface.md
+        - Mechatronics:  Intermediate/learn-by-industry/mechatronics.md
+        - Ros 2:  Intermediate/learn-by-industry/ros-2.md
+        - Automation Warehouse:  Intermediate/learn-by-industry/automation-warehouse.md
       - Lessons:
         - Lesson 1: Intermediate/Lessons/lesson_1.md
         - Lesson 2: Intermediate/Lessons/lesson_2.md
