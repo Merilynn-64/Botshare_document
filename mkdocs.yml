@@ -1,6 +1,7 @@
 site_name: "Botshare Book"
 site_url: "https://merilynn-64.github.io/Botshare_document/"
 repo_url: "https://github.com/openAMRobot"
+baseurl: "/Botshare_document"
 repo_name: "GitHub"
 
 theme:
