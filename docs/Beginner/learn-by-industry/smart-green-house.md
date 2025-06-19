@@ -10,7 +10,7 @@ In this hands-on lesson, students design, prototype, and deploy a fully automate
 
 Students explore how AI and IoT systems work together to monitor and regulate the growing environment. By the end of the lesson, learners gain practical insight into smart agriculture and sustainable design.
 
-![Smart Greenhouse Overview](.../.../assets/smart-green-house.png)
+![Smart Greenhouse Overview](/Botshare_document/assets/smart-green-house.png)
 
 ---
 
