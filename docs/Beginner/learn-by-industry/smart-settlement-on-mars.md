@@ -10,9 +10,6 @@ This visionary lesson challenges students to design and prototype **autonomous s
 
 The project integrates **robotics, life-support control, environmental sensing, and automation** — pushing students to apply engineering and creativity to one of the most ambitious challenges: building a smart, self-sustaining Martian colony.
 
-*You can optionally insert a habitat system diagram here:*  
-`![Mars Habitat Simulation]({{ site.baseurl }}/assets/mars-habitat.png)`
-
 ---
 
 ## Key Concepts Covered
