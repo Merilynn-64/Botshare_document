@@ -56,19 +56,3 @@ Students work with **real-time embedded systems** and learn how hardware-level d
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-amr-mechatronics/
-├── motor_control/
-│   └── differential_drive.ino
-├── encoders/
-│   ├── read_as5600.ino
-│   └── odometry_calc.ino
-├── battery/
-│   └── voltage_monitor.ino
-├── safety/
-│   └── emergency_stop.ino
-├── micro_ros/
-│   └── teensy_micro_ros_bridge.ino
-└── README.md
