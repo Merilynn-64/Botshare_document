@@ -70,19 +70,4 @@ This setup models an intelligent home where devices interact seamlessly and adap
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-smart-home/
-├── climate/
-│   └── temperature_humidity_control.ino
-├── lighting/
-│   └── ldr_auto_light.ino
-├── security/
-│   └── motion_door_alert.ino
-├── voice/
-│   └── google_ifttt_trigger.json
-├── dashboard/
-│   └── blynk_display_config.ino
-└── README.md
 
