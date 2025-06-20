@@ -71,21 +71,4 @@ Students build the system step-by-step and test it as if they were engineers man
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-mars-settlement/
-├── habitat_control/
-│   └── airlock_system.ino
-├── sensors/
-│   ├── env_sensors.ino
-│   └── co2_uv_dust.ino
-├── hydroponics/
-│   └── plant_chamber_control.ino
-├── rover/
-│   ├── mars_rover_drive.ino
-│   └── lidar_mapping.py
-├── camera/
-│   └── esp32_cam_stream.ino
-└── README.md
 
