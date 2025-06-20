@@ -11,6 +11,7 @@ This applied robotics lesson focuses on simulating an **AI-powered mobile robot*
 By combining **vision**, **navigation**, and **behavioral planning**, this lesson mirrors the systems used in real-world automated warehouses operated by companies like Amazon, DHL, and various robotics startups.
 
 ---
+![Autonomous Warehouse Mapping Overview](/Botshare_document/assets/map.png)
 
 ## Technologies Covered
 
