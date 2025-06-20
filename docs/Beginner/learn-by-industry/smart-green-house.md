@@ -57,22 +57,4 @@ Students explore how AI and IoT systems work together to monitor and regulate th
 
 ---
 
-## Sample Project Structure
-
-```plaintext
-smart-greenhouse/
-├── sensors/
-│   ├── dht22_temp_humidity.ino
-│   ├── soil_moisture.ino
-│   └── light_sensor.ino
-├── irrigation/
-│   ├── relay_control.ino
-│   └── pump_logic.ino
-├── ventilation/
-│   └── servo_control.ino
-├── display/
-│   └── oled_display.ino
-├── wifi/
-│   └── esp32_cloud_upload.ino
-└── README.md
 
