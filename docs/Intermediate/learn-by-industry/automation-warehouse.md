@@ -51,17 +51,3 @@ By combining **vision**, **navigation**, and **behavioral planning**, this lesso
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-warehouse-docking/
-├── cv/
-│   └── aruco_docking_node.py
-├── navigation/
-│   ├── waypoint_manager.yaml
-│   └── task_bt.xml
-├── urdf/
-│   └── robot_with_cam.urdf.xacro
-├── gazebo_sim/
-│   └── warehouse_world.sdf
-└── README.md
