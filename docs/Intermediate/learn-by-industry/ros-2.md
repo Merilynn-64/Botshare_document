@@ -53,20 +53,3 @@ This core software lesson guides students through building the **"brain" of an a
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-ros2-navigation/
-├── launch/
-│   ├── bringup.launch.py
-│   ├── nav2_config.yaml
-├── urdf/
-│   └── robot_model.urdf.xacro
-├── maps/
-│   └── lab_world.yaml
-├── src/
-│   ├── odometry_node/
-│   └── sensor_bridge/
-├── gazebo_sim/
-│   └── robot_world.sdf
-└── README.md
