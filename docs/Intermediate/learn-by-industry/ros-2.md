@@ -8,7 +8,10 @@ has_children: false
 
 This core software lesson guides students through building the **"brain" of an autonomous mobile robot (AMR)** using the **ROS 2 framework**. Students implement key autonomy modules such as localization, mapping, and path planning using open-source ROS 2 packages. The final result is a fully integrated navigation system capable of moving through unknown environments safely and intelligently.
 
+![ROS 2 UI architecture Overview](/Botshare_document/assets/UI_architecture.jpg)
+
 ---
+
 
 ## Core Concepts
 
