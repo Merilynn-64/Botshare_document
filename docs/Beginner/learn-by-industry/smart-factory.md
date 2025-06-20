@@ -69,19 +69,4 @@ This setup mimics smart manufacturing environments where speed, accuracy, and au
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-smart-factory/
-├── arm_control/
-│   └── robotic_arm_pick_place.ino
-├── conveyor/
-│   └── conveyor_motor_control.ino
-├── vision/
-│   └── color_detection_openmv.py
-├── sorting/
-│   └── servo_sorting_logic.ino
-├── sensors/
-│   └── object_detection.ino
-└── README.md
 
