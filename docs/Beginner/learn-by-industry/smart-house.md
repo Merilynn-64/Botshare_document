@@ -10,6 +10,7 @@ In this hands-on lesson, students design and build a prototype of a **smart home
 
 Through this lab, students explore the growing field of **home automation and IoT integration**, focusing on real-world applications in security, comfort, and energy savings.
 
+![Smart Home Overview](/Botshare_document/assets/smart-house.png)
 ---
 
 ## Key Concepts Covered
