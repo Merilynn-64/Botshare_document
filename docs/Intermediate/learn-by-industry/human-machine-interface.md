@@ -67,20 +67,3 @@ By completing this project, students will:
 
 ---
 
-## Sample Project Folder
-
-```plaintext
-robot-hmi/
-├── backend/
-│   ├── app.py               # Flask or FastAPI server
-│   ├── routes/
-│   │   ├── status.py
-│   │   └── control.py
-├── frontend/
-│   ├── index.html
-│   ├── app.js               # WebSocket and API interaction
-│   └── style.css
-├── ros_interface/
-│   ├── ros_control_bridge.py
-│   └── telemetry_publisher.py
-└── README.md
