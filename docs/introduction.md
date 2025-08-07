@@ -1,3 +1,0 @@
-# Introduction
-
-Welcome to Botshare Book. Here's how to get started...
