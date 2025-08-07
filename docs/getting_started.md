@@ -29,8 +29,9 @@ Small and medium-sized warehouses struggle with rising e-commerce demand, ineffi
 ## Get started
 This initiative is built for those who want to learn, apply, and innovate in AI-driven robotics and automation.
 
-📖 **[Beginner: Build your foundation](Beginner/index.md)**  
-🚀 **[Level 2: Robotics and AI acceleration](../L2_Acceleration)**  
+📖 **[Beginner Level: Build your foundation](Beginner/index.md)**  
+🚀 **[Intermediate Level: Already have foundation? Strengthen your skills](Intermediate/index.md)**  
+🚀 **[Advanced Level: Master the system ](Advanced/index.md)**
 
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
