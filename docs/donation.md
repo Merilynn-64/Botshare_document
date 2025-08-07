@@ -7,7 +7,7 @@ Your contributions are used diligently and with purpose. Whether it's maintainin
 
 We are not a large organization with a marketing team and big sponsors. We’re a passionate, small team of builders, learners, and volunteers who work late nights and weekends to make this platform meaningful and relevant. Every donation — whether it's $1 or $100 — sends us a clear message: someone believes in what we’re doing. And that belief is what keeps us going. It helps us improve the user interface, add deeper explanations, respond to feedback, and deliver real educational value to people across the world. You are not just funding a project. You are investing in people’s growth and in a platform that grows with them.
 
-We’re beyond grateful for your trust. And we commit to honoring that trust with transparency, dedication, and steady progress. Whether you’re a student learning automation, a teacher using our resources in class, or a curious explorer browsing our pages — you matter. This platform exists because of people like you. And with your continued support, we will keep building — one contribution at a time. 💡🌍
+We’re beyond grateful for your trust. And we commit to honoring that trust with transparency, dedication, and steady progress. Whether you’re a student learning automation, a teacher using our resources in class, or a curious explorer browsing our pages — you matter. This platform exists because of people like you. And with your continued support, we will keep building — one contribution at a time. 
 
 ---
 
