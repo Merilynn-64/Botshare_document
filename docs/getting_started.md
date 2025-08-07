@@ -32,6 +32,7 @@ This initiative is built for those who want to learn, apply, and innovate in AI-
 📖 **[Beginner Level: Build your foundation](Beginner/index.md)**  
 🚀 **[Intermediate Level: Already have foundation? Strengthen your skills](Intermediate/index.md)**  
 🚀 **[Advanced Level: Master the system ](Advanced/index.md)**
+🚀 **[Tech-to-market: Turn innovation into impact](Tech-to-market/index.md)** 
 
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
