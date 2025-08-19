@@ -1,6 +1,7 @@
+> **Breadcrumb:** Home → Advanced → Lessons → Lesson 1
+
 # Lesson 1
 
-> **Breadcrumb:** Home → Advanced → Lessons → Lesson 1
 
 This is Lesson 1 of the Advanced series.
 
