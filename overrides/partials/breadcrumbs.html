@@ -1,0 +1,49 @@
+{% if page and page.ancestors %}
+<nav class="custom-breadcrumbs" aria-label="Breadcrumbs">
+  <ol class="custom-breadcrumbs__list">
+    <li><a href="{{ base_url | url }}">Home</a></li>
+    {% for parent in page.ancestors %}
+      <li>
+        {% if parent.url %}
+          <a href="{{ parent.url | url }}">{{ parent.title }}</a>
+        {% else %}
+          {{ parent.title }}
+        {% endif %}
+      </li>
+    {% endfor %}
+    <li aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+{% endif %}
+
+<style>
+.custom-breadcrumbs {
+  font-size: 0.9rem;
+  margin-bottom: 1em;
+  font-weight: 500;
+}
+.custom-breadcrumbs__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.custom-breadcrumbs__list li::after {
+  content: "→";
+  margin-left: 6px;
+  color: var(--md-default-fg-color--light);
+}
+.custom-breadcrumbs__list li:last-child::after {
+  content: "";
+}
+.custom-breadcrumbs a {
+  color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+.custom-breadcrumbs a:hover {
+  text-decoration: underline;
+}
+</style>
